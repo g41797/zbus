@@ -1,0 +1,21 @@
+Repos
+    https://github.com/openwrt/libubox
+
+    git submodule add https://github.com/openwrt/libubox src/libs/libubox
+
+
+
+
+
+    https://github.com/openwrt/ubus
+
+
+    https://github.com/openwrt/rpcd
+
+Install json-c
+    sudo dnf install json-c-devel
+    Install dir: /usr/include/json-c
+
+Translate-C
+    https://zig.guide/master/working-with-c/translate-c
+    https://fig.io/manual/zig/translate-c
