@@ -3,10 +3,6 @@ Repos
 
     git submodule add https://github.com/openwrt/libubox src/libs/libubox
 
-
-
-
-
     https://github.com/openwrt/ubus
     git submodule add https://github.com/openwrt/ubus src/libs/ubus
 
@@ -18,6 +14,12 @@ Install json-c
     mkdir src/c/include
     ln -s /usr/include/json-c src/c/include/json
 
+Zig & JSON
+    https://www.openmymind.net/Reading-A-Json-Config-In-Zig/
+    https://www.reddit.com/r/Zig/comments/1e1pqrg/is_it_possible_to_parse_a_json_object_to_a_map/
+    https://www.reddit.com/r/Zig/comments/1bignpf/json_serialization_and_taggeddiscrimated_unions/
+    https://zigbin.io/651078
+
 
 Translate-C
     https://zig.guide/master/working-with-c/translate-c
@@ -27,6 +29,5 @@ Incrementally porting an embedded C application to Zig
     https://www.lagerdata.com/articles/incrementally-porting-an-embedded-c-application-to-zig
     https://github.com/lagerdata/demo-nrf52-periphs/
 
-
-translate-c refuses to translate packed structs
-    https://github.com/ziglang/zig/issues/12733
+libubus: use network order in ubus message header fields
+    https://patchwork.ozlabs.org/project/openwrt/patch/1455481436-551-1-git-send-email-eyal.birger@gmail.com/
