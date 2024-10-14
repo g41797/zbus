@@ -8,14 +8,21 @@ Repos
 
 
     https://github.com/openwrt/ubus
-
+    git submodule add https://github.com/openwrt/ubus src/libs/ubus
 
     https://github.com/openwrt/rpcd
 
 Install json-c
     sudo dnf install json-c-devel
     Install dir: /usr/include/json-c
+    mkdir src/c/include
+    ln -s /usr/include/json-c src/c/include/json
+
 
 Translate-C
     https://zig.guide/master/working-with-c/translate-c
     https://fig.io/manual/zig/translate-c
+
+Incrementally porting an embedded C application to Zig
+    https://www.lagerdata.com/articles/incrementally-porting-an-embedded-c-application-to-zig
+    https://github.com/lagerdata/demo-nrf52-periphs/

@@ -2,3 +2,5 @@
 zig-out/
 .idea/
 /src/c/libubox
+/src/c/ubus
+/src/c/include

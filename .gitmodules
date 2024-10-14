@@ -1,3 +1,6 @@
 [submodule "src/libs/libubox"]
 	path = src/libs/libubox
 	url = https://github.com/openwrt/libubox
+[submodule "src/libs/ubus"]
+	path = src/libs/ubus
+	url = https://github.com/openwrt/ubus
