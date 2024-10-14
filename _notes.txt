@@ -26,3 +26,7 @@ Translate-C
 Incrementally porting an embedded C application to Zig
     https://www.lagerdata.com/articles/incrementally-porting-an-embedded-c-application-to-zig
     https://github.com/lagerdata/demo-nrf52-periphs/
+
+
+translate-c refuses to translate packed structs
+    https://github.com/ziglang/zig/issues/12733
