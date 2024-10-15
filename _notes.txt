@@ -1,3 +1,21 @@
+The ubus mechanism of openwrt
+    https://www.codetd.com/en/article/13008294
+
+Everything Ubus
+    https://www.snaums.de/informatik/everything-ubus.html
+
+Examples client-server
+    https://github.com/txomon/ubus/tree/master/examples
+
+Ubus baapi back-end
+    https://gitlab.com/prpl-foundation/components/ambiorix/modules/amxb_backends/amxb_ubus
+    [socat https://openwrt.org/packages/pkgdata/socat
+[OpenWrt] uses Ubus to implement process communication
+    https://topic.alibabacloud.com/a/openwrt-uses-ubus-to-implement-process-communication_8_8_20271300.html
+
+How to use UBUS commands for Bluetooth device scanning / pairing
+    https://wiki.teltonika-networks.com/index.php?title=How_to_use_UBUS_commands_for_Bluetooth_device_scanning_/_pairing&mobileaction=toggle_view_desktop
+
 Repos
     https://github.com/openwrt/libubox
 
@@ -19,6 +37,8 @@ Zig & JSON
     https://www.reddit.com/r/Zig/comments/1e1pqrg/is_it_possible_to_parse_a_json_object_to_a_map/
     https://www.reddit.com/r/Zig/comments/1bignpf/json_serialization_and_taggeddiscrimated_unions/
     https://zigbin.io/651078
+    https://www.openmymind.net/Zigs-std-json-Parsed/
+
 
 
 Translate-C
@@ -31,3 +51,33 @@ Incrementally porting an embedded C application to Zig
 
 libubus: use network order in ubus message header fields
     https://patchwork.ozlabs.org/project/openwrt/patch/1455481436-551-1-git-send-email-eyal.birger@gmail.com/
+
+Examples of servers
+    https://dev.iopsys.eu/bbf/bbfdm/-/blob/docs/docs/guide/obj_param_extension.md#ubus-command
+    https://dev.iopsys.eu/bbf/uspd/-/tree/devel/schemas/ubus
+    https://dev.iopsys.eu/bbf/bbfdm/-/blob/docs/docs/guide/obj_param_extension.md
+    https://dev.iopsys.eu/bbf
+    uspd - https://dev.iopsys.eu/bbf/uspd
+
+
+D-Bus API Design Guidelines
+    https://dbus.freedesktop.org/doc/dbus-api-design.html
+
+FDBus
+    https://fdbus-doc.readthedocs.io/en/latest/index.html
+
+Code Generation in Zig
+    https://steveroche.xyz/posts/code-generation-in-zig/
+
+Convert JSON to code
+    https://quicktype.io/
+
+Handling real-world JSON documents with Zig v0.11
+    https://log.pocka.io/en/Blog/2024/zig-v0.11-json-handling/
+
+JSON Hash Map
+    https://github.com/ziglang/zig/blob/master/lib/std/json/hashmap.zig
+
+JSON schema to Zig
+    https://github.com/travisstaloch/json-schema-gen
+    https://github.com/aerth/json-to-zig
