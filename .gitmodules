@@ -4,3 +4,9 @@
 [submodule "src/libs/ubus"]
 	path = src/libs/ubus
 	url = https://github.com/openwrt/ubus
+[submodule "src/libs/netifd"]
+	path = src/libs/netifd
+	url = https://github.com/openwrt/netifd
+[submodule "src/libs/ustp"]
+	path = src/libs/ustp
+	url = https://github.com/openwrt/ustp

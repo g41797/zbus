@@ -24,7 +24,16 @@ Repos
     https://github.com/openwrt/ubus
     git submodule add https://github.com/openwrt/ubus src/libs/ubus
 
+    https://github.com/openwrt/netifd
+    git submodule add https://github.com/openwrt/netifd src/libs/netifd
+
+    https://github.com/openwrt/ustp
+    git submodule add https://github.com/openwrt/ustp src/libs/ustp
+
     https://github.com/openwrt/rpcd
+
+    git rm src/libs/TBD
+
 
 Install json-c
     sudo dnf install json-c-devel
