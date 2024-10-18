@@ -10,6 +10,7 @@ Examples client-server
 Ubus baapi back-end
     https://gitlab.com/prpl-foundation/components/ambiorix/modules/amxb_backends/amxb_ubus
     [socat https://openwrt.org/packages/pkgdata/socat
+
 [OpenWrt] uses Ubus to implement process communication
     https://topic.alibabacloud.com/a/openwrt-uses-ubus-to-implement-process-communication_8_8_20271300.html
 
@@ -48,8 +49,6 @@ Zig & JSON
     https://zigbin.io/651078
     https://www.openmymind.net/Zigs-std-json-Parsed/
 
-
-
 Translate-C
     https://zig.guide/master/working-with-c/translate-c
     https://fig.io/manual/zig/translate-c
@@ -72,9 +71,6 @@ Examples of servers
 D-Bus API Design Guidelines
     https://dbus.freedesktop.org/doc/dbus-api-design.html
 
-FDBus
-    https://fdbus-doc.readthedocs.io/en/latest/index.html
-
 Code Generation in Zig
     https://steveroche.xyz/posts/code-generation-in-zig/
 
@@ -90,3 +86,23 @@ JSON Hash Map
 JSON schema to Zig
     https://github.com/travisstaloch/json-schema-gen
     https://github.com/aerth/json-to-zig
+
+Data format of UBUS - JSON ?????
+    https://www.reddit.com/r/openwrt/comments/1g5jvuf/data_format_of_ubus_json/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+    https://forum.openwrt.org/t/data-format-of-ubus-json/213208/4?u=g41797
+    
+Writing a struct deserializer
+    https://nathancraddock.com/blog/deserialization-with-zig-metaprogramming/
+
+Reading/writing strings from binary data
+    https://ziggit.dev/t/reading-writing-strings-from-binary-data/1159/6?u=g41797
+
+Difference between struct level align(x) and field level align(x)
+    https://ziggit.dev/t/difference-between-struct-level-align-x-and-field-level-align-x/3082/1
+
+
+Packed structs in Zig make bit/flag sets trivial
+    https://devlog.hexops.com/2022/packed-structs-in-zig/
+
+Pointer arithmetic
+    https://github.com/andrewCodeDev/random_access
