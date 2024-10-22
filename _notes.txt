@@ -4,6 +4,9 @@ The ubus mechanism of openwrt
 Everything Ubus
     https://www.snaums.de/informatik/everything-ubus.html
 
+OpenWrt UBUS
+    https://hackmd.io/@rYMqzC-9Rxy0Isn3zClURg/H1BY98bRw
+
 Examples client-server
     https://github.com/txomon/ubus/tree/master/examples
 
@@ -106,3 +109,13 @@ Packed structs in Zig make bit/flag sets trivial
 
 Pointer arithmetic
     https://github.com/andrewCodeDev/random_access
+
+UBUS code routines and analysis
+    https://www.programmersought.com/article/54945388753/
+
+Metaprogramming
+    https://www.openmymind.net/Basic-MetaProgramming-in-Zig/
+    https://ikrima.dev/dev-notes/zig/zig-metaprogramming/
+    https://medium.com/@edlyuu/zig-comptime-wtf-is-zig-comptime-and-inline-e6ea40e0cb41
+    https://kristoff.it/blog/what-is-zig-comptime/
+
