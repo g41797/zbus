@@ -119,3 +119,6 @@ Metaprogramming
     https://medium.com/@edlyuu/zig-comptime-wtf-is-zig-comptime-and-inline-e6ea40e0cb41
     https://kristoff.it/blog/what-is-zig-comptime/
 
+Badges
+    https://henriquesebastiao.com/badges/
+    https://github.com/henriquesebastiao/badges
