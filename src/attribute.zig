@@ -3,44 +3,52 @@
 
 const std = @import("std");
 
-pub const BLOB_ATTR_UNSPEC: c_int = 0;
-pub const BLOB_ATTR_NESTED: c_int = 1;
-pub const BLOB_ATTR_BINARY: c_int = 2;
-pub const BLOB_ATTR_STRING: c_int = 3;
-pub const BLOB_ATTR_INT8: c_int = 4;
-pub const BLOB_ATTR_INT16: c_int = 5;
-pub const BLOB_ATTR_INT32: c_int = 6;
-pub const BLOB_ATTR_INT64: c_int = 7;
-pub const BLOB_ATTR_DOUBLE: c_int = 8;
-pub const BLOB_ATTR_LAST: c_int = 9;
+pub const ATTR_UNSPEC: c_int = 0;
+pub const ATTR_NESTED: c_int = 1;
+pub const ATTR_BINARY: c_int = 2;
+pub const ATTR_STRING: c_int = 3;
+pub const ATTR_INT8: c_int = 4;
+pub const ATTR_INT16: c_int = 5;
+pub const ATTR_INT32: c_int = 6;
+pub const ATTR_INT64: c_int = 7;
+pub const ATTR_DOUBLE: c_int = 8;
+pub const ATTR_LAST: c_int = 9;
 
 pub const AttrType = enum(u7) {
-    UNSPEC = BLOB_ATTR_UNSPEC,
-    NESTED = BLOB_ATTR_NESTED,
-    BINARY = BLOB_ATTR_BINARY,
-    STRING = BLOB_ATTR_STRING,
-    INT8 = BLOB_ATTR_INT8,
-    INT16 = BLOB_ATTR_INT16,
-    INT32 = BLOB_ATTR_INT32,
-    INT64 = BLOB_ATTR_INT64,
-    DOUBLE = BLOB_ATTR_DOUBLE,
-    LAST = BLOB_ATTR_LAST,
+    UNSPEC = ATTR_UNSPEC,
+    NESTED = ATTR_NESTED,
+    BINARY = ATTR_BINARY,
+    STRING = ATTR_STRING,
+    INT8 = ATTR_INT8,
+    INT16 = ATTR_INT16,
+    INT32 = ATTR_INT32,
+    INT64 = ATTR_INT64,
+    DOUBLE = ATTR_DOUBLE,
+    LAST = ATTR_LAST,
 };
 
-pub const BLOB_ATTR_ALIGN = @as(c_int, 4);
+pub const ATTR_ALIGN = @as(c_int, 4);
 
 pub const AttrHdr = packed struct {
-    extended: bool = false,
-    id: AttrType = .UNSPEC,
-    len: u24 = 0,
+    extended: bool = false, // data contains message.FieldName
+    id: u7 = @intFromEnum(AttrType.UNSPEC),
+    plen: u24 = 0, // length of payload, 0 if wasn't set
+    data: void = undefined,
 
+    pub fn was_set(hdr: *AttrHdr) bool {
+        return hdr.plen > 0;
+    }
 
     pub fn raw_len(hdr: *AttrHdr) usize {
-        return hdr.len + @sizeOf(AttrHdr);
+        return hdr.plen + @sizeOf(AttrHdr);
     }
 
     pub fn pad_len(hdr: *AttrHdr) usize {
-        return (((hdr.raw_len() - 1) / BLOB_ATTR_ALIGN) +% 1) * BLOB_ATTR_ALIGN;
+        return (((hdr.raw_len() - 1) / ATTR_ALIGN) +% 1) * ATTR_ALIGN;
+    }
+
+    pub fn data_ptr(hdr: *AttrHdr) *void {
+        return &hdr.data;
     }
 };
 
@@ -81,20 +89,25 @@ pub fn Attr(comptime at: AttrType) type {
         const Self = @This();
 
         hdr: AttrHdr = .{
-            .len = lenOf(at),
-            .id = at,
+            .plen = 0,
+            .id = @intFromEnum(at),
         },
-        payload: typeOf(at) = undefined,
+        payload: void = undefined,
 
-        pub fn get(self: *Self) retTypeOf(at) {
+        pub fn get(self: *Self) !retTypeOf(at) {
+            if (self.hdr.plen == 0) {
+                return error.WasNotSet;
+            }
             if (retTypeOf(at) == *void) {
                 return &self.payload;
             }
-            return self.payload;
+            const payload: *typeOf(at) = @ptrCast(&self.payload);
+            return payload.*;
         }
 
         pub fn set(self: *Self, val: typeOf(at)) void {
-            self.payload = val;
+            const payload: *typeOf(at) = @ptrCast(&self.payload);
+            payload.* = val;
             return;
         }
     };
@@ -102,13 +115,13 @@ pub fn Attr(comptime at: AttrType) type {
 
 test "attr test" {
     const bin = Attr(.INT8);
-    var b: bin = .{};
+    var buff: [128]u8 = undefined;
+    const b: *bin = @ptrCast(@alignCast(&buff));
     b.set(13);
     var v13 = b.get();
     v13 = 14;
     return;
 }
-
 
 //  Example of the ptr casting
 // pub fn data(atr: *Attr, comptime T: type) *T {
