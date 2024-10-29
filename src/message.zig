@@ -40,6 +40,7 @@ pub const FieldType = enum(u8) {
 };
 
 pub const FieldName = packed struct {
-    namelen: u16 = 0,
+    namelen: u16 = 0, // length of name without sentinel terminatot \0
     cstr: void,
+    padding: void,
 };

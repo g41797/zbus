@@ -126,3 +126,10 @@ Badges
 Generate docs
     cd ./dgen
     /home/g41797/Devs/doxygen-1.12.0/bin/doxygen
+
+Advanced Guide to Return Values and Error Unions in Zig
+    https://gencmurat.com/en/posts/advanced-guide-to-return-values-and-error-unions-in-zig/
+
+Tagged union
+    https://saidvandeklundert.net/fortheloveofzig/tagged%20unions
+

@@ -2,6 +2,9 @@
 // SPDX-License-Identifier: MIT
 
 const std = @import("std");
+const message = @import("message.zig");
+const FieldName = message.FieldName;
+const FieldType = message.FieldType;
 
 pub const ATTR_UNSPEC: c_int = 0;
 pub const ATTR_NESTED: c_int = 1;
@@ -33,7 +36,6 @@ pub const AttrHdr = packed struct {
     extended: bool = false, // data contains message.FieldName
     id: u7 = @intFromEnum(AttrType.UNSPEC),
     plen: u24 = 0, // length of payload, 0 if wasn't set
-    data: void = undefined,
 
     pub fn was_set(hdr: *AttrHdr) bool {
         return hdr.plen > 0;
@@ -46,10 +48,34 @@ pub const AttrHdr = packed struct {
     pub fn pad_len(hdr: *AttrHdr) usize {
         return (((hdr.raw_len() - 1) / ATTR_ALIGN) +% 1) * ATTR_ALIGN;
     }
+};
 
-    pub fn data_ptr(hdr: *AttrHdr) *void {
-        return &hdr.data;
+pub const Attribute = packed struct {
+    ahdr: AttrHdr,
+    data: void = undefined,
+    pub fn data_ptr(attr: *Attribute) *void {
+        return &attr.ahdr.data;
     }
+};
+
+pub const Field = packed struct {
+    ahdr: AttrHdr = .{
+        .extended = true,
+    },
+    name: FieldName = undefined,
+    data: void = undefined,
+};
+
+const ItemTag = enum {
+    unknown,
+    attribute,
+    field,
+};
+
+const ItemPtr = union(ItemTag) {
+    unknown: *void,
+    attribute: *Attribute,
+    field: *Attribute,
 };
 
 pub fn typeOf(comptime at: AttrType) type {
