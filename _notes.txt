@@ -135,9 +135,9 @@ Tagged union
 Comparing Two High-Performance I/O Design Patterns
     https://www.artima.com/articles/comparing-two-high-performance-io-design-patterns
 
-Event Loops in Zig
-    https://ziggit.dev/t/blog-post-event-loops-in-zig/850
-    https://ryleealanza.org/posts/the-seamstress-event-loop-in-zig/
+Reactor - Proactor
+    http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/magistraleinformatica/tdp/tpd_reactor_proactor.pdf
+    https://www.dre.vanderbilt.edu/~schmidt/PDF/Proactor.pdf
 
 A Programmer-Friendly I/O Abstraction Over io_uring and kqueue
     https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue
@@ -150,4 +150,7 @@ What is io_uring?
     https://github.com/saltzm/async_io_uring
     https://github.com/Cloudef/zig-aio
     https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io
+
+Zig | 53, usingnamespace
+    https://medium.com/@mikecode/zig-53-usingnamespace-2eac1ba3aef5
 
