@@ -38,7 +38,6 @@ Repos
 
     git rm src/libs/TBD
 
-
 Install json-c
     sudo dnf install json-c-devel
     Install dir: /usr/include/json-c
@@ -132,4 +131,23 @@ Advanced Guide to Return Values and Error Unions in Zig
 
 Tagged union
     https://saidvandeklundert.net/fortheloveofzig/tagged%20unions
+
+Comparing Two High-Performance I/O Design Patterns
+    https://www.artima.com/articles/comparing-two-high-performance-io-design-patterns
+
+Event Loops in Zig
+    https://ziggit.dev/t/blog-post-event-loops-in-zig/850
+    https://ryleealanza.org/posts/the-seamstress-event-loop-in-zig/
+
+A Programmer-Friendly I/O Abstraction Over io_uring and kqueue
+    https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue
+
+Cross-platform event loop
+    https://github.com/mitchellh/libxev
+
+What is io_uring?
+    https://unixism.net/loti/what_is_io_uring.html
+    https://github.com/saltzm/async_io_uring
+    https://github.com/Cloudef/zig-aio
+    https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io
 
