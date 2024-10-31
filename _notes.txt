@@ -35,6 +35,10 @@ Repos
     git submodule add https://github.com/openwrt/ustp src/libs/ustp
 
     https://github.com/openwrt/rpcd
+    git submodule add https://github.com/openwrt/rpcd src/libs/rpcd
+
+    https://github.com/openwrt/procd
+    git submodule add https://github.com/openwrt/procd src/libs/procd
 
     git rm src/libs/TBD
 

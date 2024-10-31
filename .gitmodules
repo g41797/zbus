@@ -10,3 +10,9 @@
 [submodule "src/libs/ustp"]
 	path = src/libs/ustp
 	url = https://github.com/openwrt/ustp
+[submodule "src/libs/rpcd"]
+	path = src/libs/rpcd
+	url = https://github.com/openwrt/rpcd
+[submodule "src/libs/procd"]
+	path = src/libs/procd
+	url = https://github.com/openwrt/procd

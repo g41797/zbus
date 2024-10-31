@@ -5,3 +5,4 @@ zig-out/
 /src/c/libubox
 /src/c/ubus
 /src/c/include
+ubusdgen/
