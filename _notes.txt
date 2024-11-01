@@ -158,3 +158,11 @@ What is io_uring?
 Zig | 53, usingnamespace
     https://medium.com/@mikecode/zig-53-usingnamespace-2eac1ba3aef5
 
+OpenWrt programs (ubus, uhttpd) ported to Ubuntu
+    https://launchpad.net/~stokito/+archive/ubuntu/openwrt
+
+Install ppa-dev-tools on Fedora
+    https://snapcraft.io/install/ppa-dev-tools/fedorahttps://snapcraft.io/install/ppa-dev-tools/fedora
+
+Using the SDK
+    https://openwrt.org/docs/guide-developer/toolchain/using_the_sdk

@@ -31,7 +31,7 @@ pub const AttrType = enum(u7) {
 pub const ATTR_ALIGN = @as(c_int, 4);
 
 pub const AttrHdr = packed struct {
-    extended: bool = false, // data contains message.FieldName
+    field: bool = false, // data contains message.FieldName
     id: u7 = @intFromEnum(AttrType.UNSPEC),
     plen: u24 = 0, // length of payload, 0 if wasn't set
 
@@ -92,7 +92,7 @@ pub const FieldName = packed struct {
 
 pub const Field = packed struct {
     ahdr: AttrHdr = .{
-        .extended = true,
+        .field = true,
     },
     name: FieldName = undefined,
     data: void = undefined,
@@ -107,7 +107,7 @@ const ItemTag = enum {
 const ItemPtr = union(ItemTag) {
     unknown: *void,
     attribute: *Attribute,
-    field: *Attribute,
+    field: *Field,
 };
 
 pub fn typeOf(comptime at: AttrType) type {
