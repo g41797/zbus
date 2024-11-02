@@ -2,7 +2,6 @@
 // SPDX-License-Identifier: MIT
 
 const std = @import("std");
-const message = @import("message.zig");
 
 pub const ATTR_UNSPEC: c_int = 0;
 pub const ATTR_NESTED: c_int = 1;
@@ -26,12 +25,24 @@ pub const AttrType = enum(u7) {
     INT64 = ATTR_INT64,
     DOUBLE = ATTR_DOUBLE,
     LAST = ATTR_LAST,
+
+    pub fn min_data_size(at: AttrType) usize {
+        const result = switch (at) {
+            .INT8 => lenOf(.INT8),
+            .INT16 => lenOf(.INT16),
+            .INT32 => lenOf(.INT32),
+            .INT64 => lenOf(.INT64),
+            .DOUBLE => lenOf(.DOUBLE),
+            else => 0,
+        };
+        return result;
+    }
 };
 
 pub const ATTR_ALIGN = @as(c_int, 4);
 
 pub const AttrHdr = packed struct {
-    field: bool = false, // data contains message.FieldName
+    field: bool = false,
     id: u7 = @intFromEnum(AttrType.UNSPEC),
     plen: u24 = 0, // length of payload, 0 if wasn't set
 
@@ -50,9 +61,53 @@ pub const AttrHdr = packed struct {
 
 pub const Attribute = packed struct {
     ahdr: AttrHdr,
-    data: void = undefined,
+    adata: void = undefined,
+
     pub fn data_ptr(attr: *Attribute) *void {
-        return &attr.ahdr.data;
+        return &attr.ahdr.adata;
+    }
+
+    pub fn field_ptr(attr: *Attribute) !*Field {
+        if (attr.ahdr.field) {
+            return @ptrCast(attr);
+        }
+        return error.IsNotField;
+    }
+
+    pub fn is_valid(attr: *Attribute) !bool {
+        if (attr.ahdr.field) {
+            return error.IsNotAttribute;
+        }
+        if (!attr.ahdr.was_set()) {
+            return error.WasNotSet;
+        }
+        if (!(attr.ahdr.id > ATTR_LAST) || (attr.ahdr.id < ATTR_UNSPEC)) {
+            return error.WrongAttributeId;
+        }
+
+        const at: AttrType = @enumFromInt(attr.ahdr.id);
+        const minLen = at.min_data_size();
+
+        if(!((at >= .Int8) || (at <= .DOUBLE))) {
+            if(minLen != attr.ahdr.plen) {
+                return error.WrongPayloadlen;
+            }
+            return true;
+        }
+
+        if(at == .STRING) {
+            const cstr: *u8 = @ptrCast(attr.data_ptr());
+            if(cstr[attr.ahdr.plen] != 0) {
+                return error.NoSentinel;
+            }
+            return true;
+        }
+
+        if (at.min_data_size() > attr.ahdr.plen) {
+            return error.NotEnoughData;
+        }
+
+        return true;
     }
 };
 
@@ -82,12 +137,36 @@ pub const FieldType = enum(u8) {
     DOUBLE = FIELD_DOUBLE,
     CAST_INT64 = CAST_INT64,
     LAST = __FIELD_LAST,
+
+    pub fn min_data_size(ft: FieldType) usize {
+        const result = switch (ft) {
+            .BOOL => @sizeOf(u8),
+            .INT8 => @sizeOf(i8),
+            .INT16 => @sizeOf(i16),
+            .INT32 => @sizeOf(i32),
+            .INT64 => @sizeOf(i64),
+            .DOUBLE => @sizeOf(f64),
+            .CAST_INT64 => @sizeOf(i64),
+            else => 0,
+        };
+        return result;
+    }
 };
 
 pub const FieldName = packed struct {
-    namelen: u16 = 0, // length of name without sentinel terminatot \0
+    namelen: u16 = 0, // length of name without sentinel termination \0
     cstr: void,
     padding: void,
+
+    const FNAME_ALIGN = 2;
+
+    pub inline fn FHDR_PADDING(len: i32) i32 {
+        return (len + 1 << FNAME_ALIGN - 1) & ~(1 << FNAME_ALIGN - 1);
+    }
+
+    pub fn name_len(namelen: u16) i32 {
+        return FHDR_PADDING(@sizeOf(FieldName) + namelen + 1);
+    }
 };
 
 pub const Field = packed struct {
@@ -95,20 +174,70 @@ pub const Field = packed struct {
         .field = true,
     },
     name: FieldName = undefined,
-    data: void = undefined,
+    fdata: void = undefined,
+
+    pub fn is_field(fld: *Field) bool {
+        return fld.ahdr.field;
+    }
+
+    pub fn reset_name(fld: *Field) void {
+        const charPtr: *u8 = @ptrCast(&fld.name.cstr);
+        charPtr.* = 0;
+    }
+
+    pub fn name_cstr(fld: *Field) [*c]u8 {
+        return @ptrCast(&fld.name.cstr);
+    }
+
+    pub fn ftype(fld: *Field) FieldType {
+        return @enumFromInt(fld.ahdr.id);
+    }
+
+    pub fn data_ptr(fld: *Field) !*void {
+        if (!fld.isField()) {
+            return error.IsNotField;
+        }
+
+        var fdptr: *u8 = @ptrCast(fld); //
+
+        fdptr += @sizeOf(AttrHdr) + FieldName.fnameLen(fld.name.namelen);
+
+        return @ptrCast(fdptr);
+    }
+
+    pub fn data_len(fld: *Field) !usize {
+        const start = try fld.data_ptr();
+
+        const fdl = fld.ahdr.plen - (@intFromPtr(start) - @intFromPtr(fld));
+        return fdl;
+    }
+
+    pub fn is_valid(fld: *Field) !bool {
+        if (!fld.is_field()) {
+            return error.IsNotField;
+        }
+        if (!fld.ahdr.was_set()) {
+            return error.WasNotSet;
+        }
+        if (!(fld.ahdr.id > __FIELD_LAST) || (fld.ahdr.id < FIELD_UNSPEC)) {
+            return error.WrongFieldId;
+        }
+
+        return true;
+    }
 };
 
-const ItemTag = enum {
-    unknown,
-    attribute,
-    field,
-};
-
-const ItemPtr = union(ItemTag) {
-    unknown: *void,
-    attribute: *Attribute,
-    field: *Field,
-};
+// const ItemTag = enum {
+//     unknown,
+//     attribute,
+//     field,
+// };
+//
+// const ItemPtr = union(ItemTag) {
+//     unknown: *void,
+//     attribute: *Attribute,
+//     field: *Field,
+// };
 
 pub fn typeOf(comptime at: AttrType) type {
     const result = switch (at) {

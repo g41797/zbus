@@ -1,3 +1,6 @@
+Zig Playground
+    https://playground.zigtools.org/
+
 The ubus mechanism of openwrt
     https://www.codetd.com/en/article/13008294
 
@@ -166,3 +169,13 @@ Install ppa-dev-tools on Fedora
 
 Using the SDK
     https://openwrt.org/docs/guide-developer/toolchain/using_the_sdk
+
+Length of zero terminated string
+    const c_string: [*:0]const u8 = "hello";
+    const length = std.mem.len(c_string);
+    std.debug.print("length {d} sentinel {d} \n", .{length, c_string[length]});
+
+    Output: length 5 sentinel 0
+
+tips for interacting with c
+    https://zig.news/liyu1981/tips-for-interacting-with-c-1oo8

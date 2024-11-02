@@ -11,7 +11,7 @@ const big_endian = @import("builtin").target.cpu.arch.bigendian();
 /// - send: send information to rpcd via socket, format - big endian
 /// - write: save filelds and attributes before send, format - native
 /// - read: use fields and attributes after receive or write, format - native
-const Mode = enum {
+pub const Mode = enum {
     unspecified,
     receive,
     send,
@@ -74,8 +74,13 @@ pub const Buffer = struct {
     }
 
     pub fn put(bfr: *Buffer, data: []u8) !void {
+        return bfr.append(data.ptr, data.len);
+    }
+
+    pub fn append(bfr: *Buffer, data: *u8, len: usize) !void {
         _ = bfr;
         _ = data;
+        _ = len;
         return 0;
     }
 
