@@ -1,0 +1,9 @@
+<map id="rpc_plugin_lookup_context" name="rpc_plugin_lookup_context">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,110,291,144"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,103,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,48,143,107,140,111,79,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,5,189,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,55,161,109,155,109,155,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="217,5,278,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,55,220,88,191,112,188,107,216,84,235,52"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="system_add_neighbor" name="system_add_neighbor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,230,39"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#a87790cf08e5f75a8b6c3f725c59f24fc" title=" " alt="" coords="278,5,427,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,20,262,20,262,25,230,25"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#a792e179c92420629c7d7a431f32e6a76" title=" " alt="" coords="475,5,644,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,20,459,20,459,25,428,25"/>
+</map>

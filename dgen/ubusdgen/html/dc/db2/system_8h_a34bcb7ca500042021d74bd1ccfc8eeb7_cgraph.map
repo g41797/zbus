@@ -1,0 +1,11 @@
+<map id="system_veth_del" name="system_veth_del">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,181,68"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#a81ca9dd81ffcf6311b2bf4169125555a" title=" " alt="" coords="229,35,396,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,49,213,49,213,54,181,54"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#a0aa2aca422c439eaaa2cfbe4cf80ed04" title=" " alt="" coords="444,5,637,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,38,428,34,429,39,397,43"/>
+<area shape="rect" id="Node000005" href="$d7/d78/system-linux_8c.html#a792e179c92420629c7d7a431f32e6a76" title=" " alt="" coords="456,63,625,96"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,59,441,65,440,70,396,64"/>
+<area shape="rect" id="Node000004" href="$d7/d78/system-linux_8c.html#a7b05a216fb26ab10cf7c1571d6149654" title=" " alt="" coords="685,5,897,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="638,20,670,20,670,25,638,25"/>
+</map>

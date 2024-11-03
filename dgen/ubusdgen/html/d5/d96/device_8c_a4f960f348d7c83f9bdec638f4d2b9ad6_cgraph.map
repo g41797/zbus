@@ -1,0 +1,9 @@
+<map id="dev_init" name="dev_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,99,68"/>
+<area shape="rect" id="Node000002" href="$df/dc2/avl_8c.html#af44d4960ede7f23f071bf00e360bc23d" title=" " alt="" coords="164,5,251,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,40,149,30,150,36,100,45"/>
+<area shape="rect" id="Node000004" href="$d2/d66/avl-cmp_8c.html#ae22a4fecfc8234279efe5ce4f38838f0" title=" " alt="" coords="147,63,268,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,57,132,63,131,68,99,63"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#aea85dd50b9129ddaa3e3c67ed55804e4" title=" " alt="" coords="316,5,484,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,20,300,20,300,25,251,25"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ubus_msghdr" name="ubus_msghdr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,133,238,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,91,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,52,73,81,93,107,125,130,122,135,89,111,69,83,55,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,213,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,54,167,132,161,132,161,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,5,334,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,52,210,111,185,134,181,130,206,107,260,49"/>
+</map>

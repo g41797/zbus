@@ -1,0 +1,7 @@
+<map id="veth_config" name="veth_config">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,156,218,190"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,166,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,52,149,155,144,157,97,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="190,5,253,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,55,211,93,194,133,175,157,171,154,190,131,206,92,215,54"/>
+</map>

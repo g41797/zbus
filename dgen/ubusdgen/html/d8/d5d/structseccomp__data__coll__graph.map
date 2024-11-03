@@ -1,0 +1,9 @@
+<map id="seccomp_data" name="seccomp_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,133,189,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,51,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,51,83,107,101,131,97,134,78,111,42,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,5,150,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,54,115,132,109,132,109,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="174,5,250,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,54,186,83,166,111,139,135,135,131,162,107,182,80,197,52"/>
+</map>

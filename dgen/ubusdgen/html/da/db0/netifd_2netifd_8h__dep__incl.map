@@ -1,0 +1,53 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/netifd/netifd.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/netifd/netifd.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3733,5,4020,85"/>
+<area shape="rect" id="Node000002" href="$d0/d42/alias_8c.html" title=" " alt="" coords="5,145,292,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3718,50,2959,58,1895,74,1363,85,890,99,522,116,392,125,305,136,258,146,256,141,304,130,391,120,522,110,890,94,1362,80,1895,68,2959,52,3718,45"/>
+<area shape="rect" id="Node000003" href="$de/d8e/bonding_8c.html" title=" " alt="" coords="316,145,602,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="3718,51,3019,59,2053,76,1571,88,1144,101,812,117,694,126,616,136,568,146,567,141,615,130,694,121,811,112,1143,96,1571,82,2053,71,3019,54,3718,45"/>
+<area shape="rect" id="Node000004" href="$d0/d95/bridge_8c.html" title=" " alt="" coords="627,145,913,224"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="3718,51,3078,61,2210,79,1398,104,1101,119,926,136,879,147,878,141,925,130,1101,113,1397,98,2210,73,3078,56,3718,46"/>
+<area shape="rect" id="Node000005" href="$d5/d65/netifd_2config_8c.html" title=" " alt="" coords="937,145,1224,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="3718,49,3189,50,2472,61,2103,71,1758,87,1461,108,1339,121,1237,136,1190,146,1189,141,1236,130,1338,116,1461,103,1757,81,2103,66,2472,55,3189,45,3718,43"/>
+<area shape="rect" id="Node000006" href="$d5/d96/device_8c.html" title=" " alt="" coords="1248,145,1534,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="3718,49,3246,53,2619,66,2298,77,1999,91,1742,111,1548,136,1501,147,1500,141,1547,130,1742,106,1999,86,2298,71,2619,60,3246,48,3718,44"/>
+<area shape="rect" id="Node000007" href="$dd/d1b/extdev_8c.html" title=" " alt="" coords="1559,145,1845,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="3718,50,3304,57,2767,71,2495,82,2241,96,2023,114,1858,136,1812,146,1811,141,1857,130,2023,109,2241,91,2494,77,2767,66,3304,51,3718,45"/>
+<area shape="rect" id="Node000008" href="$db/dd1/handler_8c.html" title=" " alt="" coords="1869,145,2156,224"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="3718,52,3364,61,2917,76,2484,101,2305,117,2169,136,2123,146,2122,141,2168,130,2304,112,2483,96,2917,71,3364,55,3718,47"/>
+<area shape="rect" id="Node000009" href="$d2/ddd/interface-event_8c.html" title=" " alt="" coords="2180,133,2466,236"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="3718,54,3425,65,3068,82,2727,106,2587,120,2480,136,2467,138,2466,133,2479,130,2586,115,2727,101,3068,77,3425,60,3718,49"/>
+<area shape="rect" id="Node000010" href="$dc/df0/interface-ip_8c.html" title=" " alt="" coords="2491,145,2777,224"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="3718,50,3529,56,3296,71,3042,96,2915,114,2790,136,2746,147,2744,141,2789,130,2914,108,3042,91,3296,65,3528,51,3718,45"/>
+<area shape="rect" id="Node000011" href="$dd/dda/interface_8c.html" title=" " alt="" coords="2801,145,3088,224"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="3718,58,3585,68,3429,84,3264,106,3101,136,3058,146,3057,141,3100,130,3263,101,3429,78,3584,63,3718,52"/>
+<area shape="rect" id="Node000012" href="$d7/d27/iprule_8c.html" title=" " alt="" coords="3112,145,3398,224"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="3719,73,3569,101,3412,136,3373,146,3371,141,3411,130,3568,95,3718,68"/>
+<area shape="rect" id="Node000013" href="$d5/d3b/macvlan_8c.html" title=" " alt="" coords="3423,145,3709,224"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="3775,94,3656,146,3654,141,3772,89"/>
+<area shape="rect" id="Node000014" href="$d1/dd7/netifd_2main_8c.html" title=" " alt="" coords="3733,145,4020,224"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="3879,101,3879,144,3874,144,3874,101"/>
+<area shape="rect" id="Node000015" href="$db/d25/proto-shell_8c.html" title=" " alt="" coords="4044,145,4330,224"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="3981,89,4099,141,4097,146,3978,94"/>
+<area shape="rect" id="Node000016" href="$da/d5a/proto-static_8c.html" title=" " alt="" coords="4355,145,4641,224"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="4035,68,4185,95,4342,130,4382,141,4380,146,4341,136,4184,101,4034,73"/>
+<area shape="rect" id="Node000017" href="$dc/d3d/proto_8c.html" title=" " alt="" coords="4665,145,4952,224"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="4035,52,4169,63,4324,78,4490,101,4653,130,4696,141,4695,146,4652,136,4489,106,4324,84,4168,68,4035,58"/>
+<area shape="rect" id="Node000018" href="$da/d12/system-dummy_8c.html" title=" " alt="" coords="4976,145,5292,224"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="4035,46,4224,53,4457,68,4711,93,4839,110,4964,130,5012,141,5011,146,4963,136,4838,115,4710,98,4456,73,4224,59,4035,52"/>
+<area shape="rect" id="Node000019" href="$d7/d78/system-linux_8c.html" title=" " alt="" coords="5317,145,5610,224"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="4035,49,4334,59,4700,77,5050,100,5195,115,5305,130,5352,141,5350,147,5304,136,5194,120,5050,106,4699,82,4334,65,4035,54"/>
+<area shape="rect" id="Node000020" href="$d3/d64/netifd_2system_8c.html" title=" " alt="" coords="5633,145,5920,224"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="4035,46,4397,55,4855,70,5299,95,5483,111,5622,130,5668,141,5667,146,5621,136,5482,116,5299,100,4854,76,4397,60,4035,52"/>
+<area shape="rect" id="Node000021" href="$da/d7d/tunnel_8c.html" title=" " alt="" coords="5944,145,6230,224"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="4035,45,4456,51,5003,65,5282,76,5540,90,5763,108,5932,130,5978,141,5977,146,5931,136,5762,114,5540,96,5281,81,5003,70,4456,56,4035,50"/>
+<area shape="rect" id="Node000022" href="$dc/db1/netifd_2ubus_8c.html" title=" " alt="" coords="6255,145,6541,224"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="4035,44,4514,48,5151,60,5478,71,5782,86,6044,105,6242,130,6289,141,6288,147,6241,136,6043,111,5782,91,5478,76,5151,65,4514,53,4035,49"/>
+<area shape="rect" id="Node000023" href="$d7/d89/veth_8c.html" title=" " alt="" coords="6565,145,6852,224"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="4035,43,4570,44,5298,55,5673,65,6023,81,6325,102,6450,115,6553,130,6600,141,6599,146,6552,136,6449,121,6324,108,6023,86,5673,71,5298,60,4570,50,4035,49"/>
+<area shape="rect" id="Node000024" href="$d7/dd3/vlan_8c.html" title=" " alt="" coords="6876,145,7162,224"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="4035,46,4681,56,5561,73,6385,98,6685,113,6864,130,6911,141,6910,147,6863,136,6685,119,6385,103,5561,78,4681,61,4035,51"/>
+<area shape="rect" id="Node000025" href="$d0/d04/vlandev_8c.html" title=" " alt="" coords="7187,145,7473,224"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="4035,45,4742,54,5719,70,6207,82,6639,96,6975,112,7094,121,7174,130,7222,141,7221,146,7173,136,7094,126,6975,117,6639,101,6206,87,5719,76,4741,59,4035,51"/>
+<area shape="rect" id="Node000026" href="$dd/dc2/wireless_8c.html" title=" " alt="" coords="7497,145,7784,224"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="4035,45,4801,52,5876,68,6415,79,6893,93,7265,110,7397,120,7485,130,7533,141,7531,146,7484,136,7396,125,7265,116,6893,99,6414,85,5876,73,4801,58,4035,50"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="ubus_auto_shutdown" name="ubus_auto_shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,223,126"/>
+<area shape="rect" id="Node000002" href="$d4/db9/libubus_8c.html#a7390a5f2c227d5ba53e2bd65afda1cfc" title=" " alt="" coords="271,64,438,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,93,255,90,255,95,223,99"/>
+<area shape="rect" id="Node000007" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="486,120,706,154"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="223,112,471,127,470,132,223,118"/>
+<area shape="rect" id="Node000003" href="$d4/da0/blob_8c.html#a58d1b624b96aa768608f45d390cc0d59" title=" " alt="" coords="523,5,669,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,61,508,41,510,46,427,66"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="513,63,679,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="439,78,497,77,497,83,439,83"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="431,96,506,113,505,118,429,101"/>
+<area shape="rect" id="Node000005" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="772,5,956,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="678,59,766,40,768,45,679,65"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="754,63,974,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="680,77,739,77,739,82,680,82"/>
+<area shape="rect" id="Node000008" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="821,120,907,154"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="707,134,806,134,806,140,707,140"/>
+<area shape="rect" id="Node000009" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="1022,120,1116,154"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="907,134,1006,134,1006,140,907,140"/>
+</map>

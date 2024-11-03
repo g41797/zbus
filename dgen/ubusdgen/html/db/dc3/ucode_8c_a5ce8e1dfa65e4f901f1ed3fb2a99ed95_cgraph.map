@@ -1,0 +1,11 @@
+<map id="rpc_ucode_init_globals" name="rpc_ucode_init_globals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,235,39"/>
+<area shape="rect" id="Node000002" href="$db/dc3/ucode_8c.html#aa44cda842631d1e5dad435b3337a3eeb" title=" " alt="" coords="283,5,509,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,20,267,20,267,25,235,25"/>
+<area shape="rect" id="Node000003" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="557,5,777,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,20,541,20,541,25,510,25"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="825,5,911,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="777,20,810,20,810,25,777,25"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="959,5,1053,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="911,20,943,20,943,25,911,25"/>
+</map>

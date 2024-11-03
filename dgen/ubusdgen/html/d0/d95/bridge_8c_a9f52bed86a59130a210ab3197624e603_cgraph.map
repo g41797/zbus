@@ -1,0 +1,5 @@
+<map id="bridge_set_local_vlan" name="bridge_set_local_vlan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,223,39"/>
+<area shape="rect" id="Node000002" href="$da/d12/system-dummy_8c.html#a97d0cd6272e18f9663b5bcafbbe7ebe5" title=" " alt="" coords="271,5,476,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,20,255,20,255,25,223,25"/>
+</map>

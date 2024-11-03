@@ -1,0 +1,17 @@
+<map id="parseOCIcap" name="parseOCIcap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,146,155"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#a6c1cc8e52e96bf9698f6b0f65ad48603" title=" " alt="" coords="194,92,397,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,126,178,122,179,127,147,131"/>
+<area shape="rect" id="Node000008" href="$d2/d61/capabilities_8c.html#ae10fea5ba855f937d374385dee24e20e" title=" " alt="" coords="210,149,381,183"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="146,144,195,151,194,156,146,150"/>
+<area shape="rect" id="Node000003" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="445,92,596,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,106,430,106,430,112,398,112"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="684,5,795,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,89,643,48,668,39,670,44,645,53,556,94"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="649,63,830,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="597,96,633,91,634,96,597,101"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="654,120,825,154"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="597,116,639,121,638,127,597,121"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="644,177,835,211"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="557,124,645,164,662,170,660,175,643,169,555,129"/>
+</map>

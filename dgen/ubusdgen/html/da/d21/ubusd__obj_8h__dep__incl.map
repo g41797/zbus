@@ -1,0 +1,20 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/ubus/ubusd_obj.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/ubus/ubusd_obj.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1185,5,1472,85"/>
+<area shape="rect" id="Node000002" href="$d2/dbe/ubusd_8h.html" title=" " alt="" coords="1096,133,1382,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1294,99,1269,134,1265,131,1290,96"/>
+<area shape="rect" id="Node000008" href="$df/d0e/ubusd__obj_8c.html" title=" " alt="" coords="1885,261,2172,340"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1452,88,1921,258,1919,263,1450,93"/>
+<area shape="rect" id="Node000003" href="$d9/de0/ubusd_8c.html" title=" " alt="" coords="5,261,292,340"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1081,184,724,211,514,233,305,263,292,266,292,260,304,258,513,228,724,205,1080,179"/>
+<area shape="rect" id="Node000004" href="$dd/d84/ubusd__acl_8c.html" title=" " alt="" coords="316,261,602,340"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1081,194,860,223,616,263,603,266,602,261,615,258,859,218,1080,189"/>
+<area shape="rect" id="Node000005" href="$d1/df2/ubusd__event_8c.html" title=" " alt="" coords="627,261,913,340"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1082,219,914,263,913,258,1080,214"/>
+<area shape="rect" id="Node000006" href="$dd/dd3/ubusd__main_8c.html" title=" " alt="" coords="937,261,1224,340"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1180,225,1131,262,1128,258,1176,220"/>
+<area shape="rect" id="Node000007" href="$db/dc5/ubusd__monitor_8c.html" title=" " alt="" coords="1248,261,1551,340"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1303,220,1351,258,1348,262,1299,225"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1398,188,1623,217,1873,258,1885,261,1884,266,1872,263,1623,223,1397,194"/>
+<area shape="rect" id="Node000009" href="$dc/d8a/ubusd__proto_8c.html" title=" " alt="" coords="1575,261,1861,340"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1398,213,1575,259,1574,264,1397,218"/>
+</map>

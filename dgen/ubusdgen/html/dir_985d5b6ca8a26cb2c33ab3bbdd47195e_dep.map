@@ -1,0 +1,13 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/netifd" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/netifd">
+<area shape="rect" id="node1" href="dir_1e974a0feb376015fdf1a5b531ce0d1a.html" title="ubus" alt="" coords="26,142,94,176"/>
+<area shape="rect" id="node2" href="dir_397c898d2cf76178a72912abd1158536.html" title="libubox" alt="" coords="118,142,207,176"/>
+<area shape="rect" id="node3" href="dir_be0f2df19bf3f27ec0c95ee6f46c0514.html" title="rpcd" alt="" coords="231,142,294,176"/>
+<area shape="rect" id="node4" href="dir_985d5b6ca8a26cb2c33ab3bbdd47195e.html" title="netifd" alt="" coords="125,60,200,94"/>
+<area shape="poly" id="edge1" href="dir_000011_000021.html" alt="" coords="144,97,95,134,91,130,140,92"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000011_000021.html" title="2" alt="" coords="94,126,106,149"/>
+<area shape="poly" id="edge2" href="dir_000011_000008.html" alt="" coords="165,94,165,127,160,127,160,94"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000011_000008.html" title="23" alt="" coords="159,112,183,135"/>
+<area shape="poly" id="edge3" href="dir_000011_000014.html" alt="" coords="185,92,232,130,229,134,181,97"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000011_000014.html" title="1" alt="" coords="227,112,239,135"/>
+<area shape="rect" id="clust1" href="dir_87a455bccb09a92130c26a11a880c98a.html" title="libs" alt="" coords="16,16,305,186"/>
+</map>

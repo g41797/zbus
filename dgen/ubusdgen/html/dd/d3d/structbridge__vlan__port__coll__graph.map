@@ -1,0 +1,9 @@
+<map id="bridge_vlan_port" name="bridge_vlan_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="52,110,229,144"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,68,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,53,56,69,67,84,100,107,97,112,63,88,52,72,43,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,5,189,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,55,143,109,138,109,138,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="213,5,287,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,53,198,88,168,112,164,107,195,84,227,49"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/plug/hotplug.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/plug/hotplug.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,500,85"/>
+<area shape="rect" id="Node000002" href="$dc/d56/uloop_8h.html" title=" " alt="" coords="271,133,436,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,86,356,118,351,118,351,86"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,215,123,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,170,138,213,137,208,294,165"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,215,274,248"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,169,254,209,251,205,323,165"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="349,296,456,330"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="348,168,337,206,335,227,340,247,352,268,369,285,365,289,348,271,335,249,330,227,331,205,343,167"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="350,215,442,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="364,166,382,199,378,202,360,168"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="466,215,561,248"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="387,165,469,205,466,210,385,170"/>
+<area shape="rect" id="Node000008" href="$da/d23/list_8h.html" title=" " alt="" coords="584,215,651,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="412,165,570,211,568,216,411,170"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="585,248,461,293,459,288,583,243"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="569,296,666,330"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="620,249,620,281,615,281,615,249"/>
+</map>

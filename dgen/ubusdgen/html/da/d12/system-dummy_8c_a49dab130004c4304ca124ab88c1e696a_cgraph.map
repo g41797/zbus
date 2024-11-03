@@ -1,0 +1,9 @@
+<map id="system_add_neighbor" name="system_add_neighbor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,230,68"/>
+<area shape="rect" id="Node000002" href="$da/d12/system-dummy_8c.html#a7620b9efee3888ed52424576106cec70" title=" " alt="" coords="278,35,507,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,49,262,49,262,54,230,54"/>
+<area shape="rect" id="Node000003" href="$d4/d96/netifd_2utils_8c.html#a13d9536923c5ebce0c233ea375702789" title=" " alt="" coords="591,5,764,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,37,575,30,576,35,508,42"/>
+<area shape="rect" id="Node000004" href="$dc/db2/system_8h.html#a7b2b1c8437df1396d066c3d37650f748" title=" " alt="" coords="555,63,800,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="508,60,540,63,539,69,507,65"/>
+</map>

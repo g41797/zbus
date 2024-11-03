@@ -1,0 +1,21 @@
+<map id="jail_handle_signal" name="jail_handle_signal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,189,96"/>
+<area shape="rect" id="Node000002" href="$d1/d08/uloop_8c.html#aeae1856255dccd537fd19cdda1cba346" title=" " alt="" coords="237,63,426,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,77,221,77,221,82,189,82"/>
+<area shape="rect" id="Node000003" href="$d1/d08/uloop_8c.html#a941864296983cb342a79afe55055f8d3" title=" " alt="" coords="508,5,660,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,59,492,40,494,45,409,65"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#ae60859ac8015e8f1381e56f5eaae0a07" title=" " alt="" coords="486,63,682,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,77,470,77,470,82,427,82"/>
+<area shape="rect" id="Node000008" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="474,120,694,154"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="409,94,492,113,491,119,408,100"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#a5f3c4582c49b990c9fb4f5c83f8400d1" title=" " alt="" coords="742,5,872,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="653,60,694,49,727,40,728,45,695,54,654,65"/>
+<area shape="rect" id="Node000007" href="$d1/d08/uloop_8c.html#a76f33118cba0a358482528fad8c0f4cd" title=" " alt="" coords="768,63,846,96"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="683,77,752,77,752,82,683,82"/>
+<area shape="rect" id="Node000006" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="920,5,1021,39"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="872,20,904,20,904,25,872,25"/>
+<area shape="rect" id="Node000009" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="764,120,850,154"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="695,134,749,134,749,140,695,140"/>
+<area shape="rect" id="Node000010" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="923,120,1018,154"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="850,134,908,134,908,140,850,140"/>
+</map>

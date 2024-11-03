@@ -1,0 +1,20 @@
+<map id="get_next_msg" name="get_next_msg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,156,144"/>
+<area shape="rect" id="Node000002" href="$dc/d80/libubus-io_8c.html#a286d2863156bf7bb882339c5c74bc595" title=" " alt="" coords="223,5,375,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,108,202,56,233,43,235,48,205,61,111,112"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a9921d2b89577d3344abbb66f24773e32" title=" " alt="" coords="822,140,920,174"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,114,204,109,375,106,544,115,693,129,806,144,806,150,693,135,543,120,374,111,204,114,156,119"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a2c4753820a7472bba7b999fbba79df01" title=" " alt="" coords="632,167,774,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,124,351,128,468,136,585,150,631,160,630,165,584,155,467,142,350,134,156,129"/>
+<area shape="rect" id="Node000005" href="$dc/d80/libubus-io_8c.html#a1e4704bb3543c30c9de44cd3f2616404" title=" " alt="" coords="242,165,356,199"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="151,142,227,162,226,167,150,148"/>
+<area shape="rect" id="Node000007" href="$dc/d80/libubus-io_8c.html#af89184a6a1d46c84beb995555a5f8422" title=" " alt="" coords="204,223,394,256"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="104,143,149,176,205,209,217,214,215,219,202,214,146,181,101,147"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="773,170,806,164,806,170,774,175"/>
+<area shape="rect" id="Node000006" href="$dc/d80/libubus-io_8c.html#ad1aaffb83e802ad470cb77be9f56977c" title=" " alt="" coords="459,165,568,199"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="356,180,443,180,443,185,356,185"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="394,231,486,222,584,209,620,202,621,207,585,214,487,227,394,236"/>
+<area shape="rect" id="Node000008" href="$d8/d3c/blob_8h.html#a3071b18c2bb742e04d7622379ee8fd3b" title=" " alt="" coords="442,275,584,308"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="372,254,428,268,426,273,371,260"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="548,272,583,253,661,207,663,211,586,258,551,276"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="__device_add_user" name="__device_add_user">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,199,68"/>
+<area shape="rect" id="Node000002" href="$d5/d96/device_8c.html#a0660bc5bcd943589e1a1e5def267f21e" title=" " alt="" coords="247,5,414,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,36,231,32,232,38,199,42"/>
+<area shape="rect" id="Node000003" href="$dd/d25/safe__list_8c.html#a201dac7f1d35f8fd85576e863a82352b" title=" " alt="" coords="260,63,401,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,61,245,66,244,72,199,66"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#a5f3c4582c49b990c9fb4f5c83f8400d1" title=" " alt="" coords="462,63,591,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,77,446,77,446,82,401,82"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="639,63,741,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="592,77,624,77,624,82,592,82"/>
+</map>

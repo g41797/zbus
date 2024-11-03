@@ -1,0 +1,13 @@
+<map id="macvlan_apply_settings" name="macvlan_apply_settings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,248,126"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="296,92,447,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,106,280,106,280,112,248,112"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="535,5,646,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,89,494,48,519,39,521,44,496,53,406,94"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="500,63,681,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="447,96,484,91,484,96,448,101"/>
+<area shape="rect" id="Node000005" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="505,120,675,154"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="448,116,490,121,489,127,447,121"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="495,177,685,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="407,124,496,164,513,170,511,175,494,169,405,129"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="strbuf" name="strbuf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,156,299,190"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,51,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,55,29,94,35,114,46,130,75,145,121,156,221,167,221,172,120,161,73,150,43,134,30,116,24,95,21,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="145,5,207,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,54,169,93,172,113,180,130,199,148,222,160,220,165,195,153,176,134,167,114,164,93,166,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="308,5,383,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,55,337,94,318,134,292,157,289,154,314,130,332,93,340,54"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="407,5,468,39"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="433,55,418,96,406,116,390,134,369,149,345,159,299,171,298,165,344,154,366,144,386,130,401,113,413,94,428,54"/>
+</map>

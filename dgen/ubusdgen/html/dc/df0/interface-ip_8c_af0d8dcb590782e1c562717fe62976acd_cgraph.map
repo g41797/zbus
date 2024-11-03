@@ -1,0 +1,11 @@
+<map id="interface_add_addr_rules" name="interface_add_addr_rules">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,205,108"/>
+<area shape="rect" id="Node000002" href="$dc/df0/interface-ip_8c.html#ac1e6968392107ab1704c592a2270ee2f" title=" " alt="" coords="253,63,461,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,77,237,77,237,82,205,82"/>
+<area shape="rect" id="Node000003" href="$da/d12/system-dummy_8c.html#aee9e4cf147264086eb292977c8df60d1" title=" " alt="" coords="525,5,719,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,59,525,40,526,45,438,65"/>
+<area shape="rect" id="Node000004" href="$da/d12/system-dummy_8c.html#abcae62722c192dc27b24ea60cfdb3c77" title=" " alt="" coords="528,63,715,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="461,77,512,77,512,82,461,82"/>
+<area shape="rect" id="Node000005" href="$da/d12/system-dummy_8c.html#a956997d89612ec8774b76854579547bf" title=" " alt="" coords="509,121,734,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="425,94,497,113,496,119,424,100"/>
+</map>

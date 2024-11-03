@@ -1,0 +1,9 @@
+<map id="ul_timer_remaining" name="ul_timer_remaining">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,204,68"/>
+<area shape="rect" id="Node000002" href="$d1/d08/uloop_8c.html#a144dc46ccd6334bb5736232ab966e0d7" title=" " alt="" coords="252,35,530,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,49,236,49,236,54,204,54"/>
+<area shape="rect" id="Node000003" href="$d1/d08/uloop_8c.html#a76f33118cba0a358482528fad8c0f4cd" title=" " alt="" coords="615,5,693,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,33,600,25,600,31,531,39"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#a941864296983cb342a79afe55055f8d3" title=" " alt="" coords="578,63,730,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="531,64,563,67,562,72,530,69"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/plug/hotplug.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/plug/hotplug.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,5,775,85"/>
+<area shape="rect" id="Node000002" href="$d0/d3c/coldplug_8c.html" title=" " alt="" coords="5,133,304,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,91,304,135,302,130,468,86"/>
+<area shape="rect" id="Node000003" href="$da/d37/hotplug_8c.html" title=" " alt="" coords="328,133,618,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="571,97,523,135,520,131,567,93"/>
+<area shape="rect" id="Node000004" href="$da/d06/procd_8c.html" title=" " alt="" coords="642,133,928,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="691,93,738,131,735,135,688,97"/>
+<area shape="rect" id="Node000005" href="$d0/dc9/state_8c.html" title=" " alt="" coords="953,133,1239,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="790,87,953,130,951,136,789,92"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="system_del_route" name="system_del_route">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,188,126"/>
+<area shape="rect" id="Node000002" href="$da/d12/system-dummy_8c.html#af02c6a85ad946c9d5b7d06007d6768b0" title=" " alt="" coords="236,63,430,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,95,220,91,220,96,189,100"/>
+<area shape="rect" id="Node000005" href="$d7/d78/system-linux_8c.html#af95c9caadab660d32e30c612cfb2cdad" title=" " alt="" coords="277,120,389,154"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,117,262,126,261,131,188,122"/>
+<area shape="rect" id="Node000003" href="$dc/db2/system_8h.html#a7b2b1c8437df1396d066c3d37650f748" title=" " alt="" coords="478,5,723,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,59,503,40,504,45,415,65"/>
+<area shape="rect" id="Node000004" href="$dc/db2/system_8h.html#a12404d32d3958a043ee78eece1e5045d" title=" " alt="" coords="493,63,709,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="431,77,477,77,477,82,431,82"/>
+<area shape="rect" id="Node000006" href="$d7/d78/system-linux_8c.html#a792e179c92420629c7d7a431f32e6a76" title=" " alt="" coords="516,120,685,154"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="389,134,500,134,500,140,389,140"/>
+</map>

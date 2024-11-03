@@ -1,0 +1,7 @@
+<map id="config_fixup_bridge_vlan_filtering" name="config_fixup_bridge_vlan_filtering">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,209,80"/>
+<area shape="rect" id="Node000002" href="$d5/d65/netifd_2config_8c.html#a2020970c00ef18eb444ae3c434d29ab8" title=" " alt="" coords="257,5,504,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,38,241,34,241,40,209,43"/>
+<area shape="rect" id="Node000003" href="$d5/d65/netifd_2config_8c.html#a42deda78a8a8066f9eec5bf02dab2bd1" title=" " alt="" coords="259,63,502,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,59,244,63,243,68,209,65"/>
+</map>

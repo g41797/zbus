@@ -1,0 +1,25 @@
+<map id="system_bonding_set_device" name="system_bonding_set_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,198,216,255"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#a6c1cc8e52e96bf9698f6b0f65ad48603" title=" " alt="" coords="291,123,495,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,195,320,159,321,164,206,200"/>
+<area shape="rect" id="Node000008" href="$d7/d78/system-linux_8c.html#a06f8c54ac2d52208d2106e99bba41b1b" title=" " alt="" coords="570,235,795,268"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="216,217,361,214,522,221,584,229,583,234,522,226,361,220,216,223"/>
+<area shape="rect" id="Node000010" href="$d7/d78/system-linux_8c.html#acb05bf0ad9771050f5b80128eb00a5a6" title=" " alt="" coords="886,292,991,326"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="177,253,220,268,264,280,348,294,434,304,604,314,755,314,871,310,871,316,755,320,603,319,433,309,347,299,263,285,218,273,175,258"/>
+<area shape="rect" id="Node000011" href="$d7/d78/system-linux_8c.html#ab24c67c90f2cc9445192a039215d483e" title=" " alt="" coords="264,236,522,270"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="216,233,248,236,248,242,216,239"/>
+<area shape="rect" id="Node000003" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="607,120,758,154"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="495,136,591,135,591,140,495,141"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="883,5,994,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,117,770,83,842,48,867,38,869,43,844,53,772,88,713,122"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="848,63,1029,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="758,117,845,98,846,103,760,122"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="853,120,1024,154"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="759,134,838,134,838,140,759,140"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="843,177,1034,211"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="760,151,846,171,845,176,758,156"/>
+<area shape="rect" id="Node000009" href="$d7/d78/system-linux_8c.html#ae1bbc485db71b65d8408197c3f8eb582" title=" " alt="" coords="857,235,1020,268"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="796,249,841,249,841,254,796,254"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="762,266,871,291,870,296,760,272"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="523,250,554,249,554,255,523,255"/>
+</map>

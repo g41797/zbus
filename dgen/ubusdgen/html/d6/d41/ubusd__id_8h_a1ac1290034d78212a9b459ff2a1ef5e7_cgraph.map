@@ -1,0 +1,9 @@
+<map id="ubus_init_id_tree" name="ubus_init_id_tree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,182,68"/>
+<area shape="rect" id="Node000002" href="$df/dc2/avl_8c.html#af44d4960ede7f23f071bf00e360bc23d" title=" " alt="" coords="258,5,344,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,36,242,28,243,33,183,42"/>
+<area shape="rect" id="Node000004" href="$d5/d3d/ubusd__id_8c.html#a036f33fcd35d949bef89d33b8615cdac" title=" " alt="" coords="230,63,372,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,61,214,65,214,70,182,66"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#aea85dd50b9129ddaa3e3c67ed55804e4" title=" " alt="" coords="420,5,588,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,20,404,20,404,25,344,25"/>
+</map>

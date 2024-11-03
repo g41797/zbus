@@ -1,0 +1,60 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/libubox/uloop.c" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/libubox/uloop.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1060,5,1346,85"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="396,215,514,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1060,63,877,90,777,110,680,136,582,172,500,210,497,205,580,167,678,130,776,105,876,85,1059,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="538,215,665,248"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1059,61,985,71,905,87,823,108,744,135,683,169,633,207,629,202,680,165,742,131,821,103,903,81,984,66,1059,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="689,215,786,248"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1060,62,975,74,891,90,819,110,792,122,773,135,761,149,752,165,743,200,738,198,747,163,756,146,769,131,790,117,818,105,890,85,974,69,1059,57"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="935,133,1020,167"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1117,88,1028,129,1026,124,1115,83"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="1044,133,1135,167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1161,88,1120,125,1116,121,1158,84"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1159,133,1247,167"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1206,86,1206,118,1200,118,1200,86"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1271,133,1343,167"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1245,84,1282,120,1278,124,1241,88"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1367,133,1460,167"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1285,83,1368,124,1366,128,1283,88"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1484,133,1564,167"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1327,83,1470,129,1468,134,1325,88"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="448,296,555,330"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1060,65,993,80,939,102,922,115,913,129,913,146,925,165,946,185,968,198,990,205,1013,207,1061,202,1111,188,1161,175,1210,169,1234,171,1258,179,1280,192,1302,213,1310,232,1302,250,1287,260,1263,269,1192,283,1097,294,986,302,755,311,570,314,570,309,755,306,986,297,1096,289,1191,278,1262,264,1285,255,1298,247,1305,232,1298,216,1277,197,1255,184,1233,177,1210,174,1162,180,1112,193,1062,207,1013,213,989,210,965,202,943,189,921,168,908,147,907,128,918,111,936,97,991,75,1058,60"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1589,133,1678,167"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1347,76,1575,130,1573,135,1346,81"/>
+<area shape="rect" id="Node000013" href="$dc/d56/uloop_8h.html" title=" " alt="" coords="280,133,371,167"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1060,66,386,144,386,139,1059,61"/>
+<area shape="rect" id="Node000018" href="$d5/d1d/libubox_2utils_8h.html" title=" " alt="" coords="782,133,861,167"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="1060,87,880,136,876,136,875,131,878,130,1059,82"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1703,133,1823,167"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="1347,68,1688,130,1687,135,1346,73"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1847,133,1991,167"/>
+<area shape="poly" id="edge31_Node000001_Node000023" title=" " alt="" coords="1347,62,1571,91,1832,130,1831,135,1570,97,1346,67"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="2015,133,2129,167"/>
+<area shape="poly" id="edge32_Node000001_Node000024" title=" " alt="" coords="1347,54,1644,83,1820,104,2000,130,1999,135,1820,109,1643,88,1346,60"/>
+<area shape="rect" id="Node000025" href="$d3/d91/uloop-epoll_8c.html" title=" " alt="" coords="2153,133,2293,167"/>
+<area shape="poly" id="edge33_Node000001_Node000025" title=" " alt="" coords="1347,53,1702,81,1919,103,2138,130,2137,135,1918,108,1702,86,1346,58"/>
+<area shape="poly" id="edge13_Node000013_Node000002" title=" " alt="" coords="353,165,417,204,414,209,350,169"/>
+<area shape="poly" id="edge14_Node000013_Node000003" title=" " alt="" coords="372,162,532,207,530,213,370,167"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="280,161,227,174,176,192,157,204,146,217,143,231,152,247,169,261,196,273,270,290,354,301,432,307,432,312,354,307,269,296,195,278,167,265,147,250,138,231,141,214,154,200,174,187,226,168,279,156"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="279,215,372,248"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="328,167,328,199,323,199,323,167"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="161,215,255,248"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="303,169,246,208,243,204,300,165"/>
+<area shape="rect" id="Node000016" href="$da/d23/list_8h.html" title=" " alt="" coords="20,215,87,248"/>
+<area shape="poly" id="edge18_Node000013_Node000016" title=" " alt="" coords="281,167,106,217,102,218,101,213,105,212,279,162"/>
+<area shape="poly" id="edge20_Node000016_Node000011" title=" " alt="" coords="88,241,106,246,282,279,432,301,432,306,281,284,105,251,86,246"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="5,296,102,330"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="56,249,56,281,51,281,51,249"/>
+<area shape="poly" id="edge24_Node000018_Node000002" title=" " alt="" coords="782,162,529,217,528,211,781,157"/>
+<area shape="poly" id="edge23_Node000018_Node000003" title=" " alt="" coords="783,168,661,212,659,207,781,163"/>
+<area shape="poly" id="edge27_Node000018_Node000004" title=" " alt="" coords="806,169,767,206,764,202,803,165"/>
+<area shape="poly" id="edge26_Node000018_Node000011" title=" " alt="" coords="825,167,822,208,814,231,801,250,784,262,762,272,702,288,635,300,571,308,570,303,634,295,701,283,760,267,782,257,797,246,809,228,817,207,820,167"/>
+<area shape="poly" id="edge25_Node000018_Node000014" title=" " alt="" coords="782,158,614,179,387,217,387,212,614,174,782,153"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="862,215,973,248"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="843,165,888,202,885,207,839,169"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="997,215,1078,248"/>
+<area shape="poly" id="edge28_Node000018_Node000020" title=" " alt="" coords="862,163,984,208,982,213,860,168"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1101,215,1289,248"/>
+<area shape="poly" id="edge29_Node000018_Node000021" title=" " alt="" coords="862,160,879,164,1092,209,1091,214,878,169,860,165"/>
+</map>

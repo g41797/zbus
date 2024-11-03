@@ -1,0 +1,9 @@
+<map id="system_del_neighbor" name="system_del_neighbor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,223,68"/>
+<area shape="rect" id="Node000002" href="$da/d12/system-dummy_8c.html#a7620b9efee3888ed52424576106cec70" title=" " alt="" coords="271,35,500,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,49,255,49,255,54,223,54"/>
+<area shape="rect" id="Node000003" href="$d4/d96/netifd_2utils_8c.html#a13d9536923c5ebce0c233ea375702789" title=" " alt="" coords="584,5,757,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,37,568,30,569,35,501,42"/>
+<area shape="rect" id="Node000004" href="$dc/db2/system_8h.html#a7b2b1c8437df1396d066c3d37650f748" title=" " alt="" coords="548,63,793,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="501,60,533,63,532,69,500,65"/>
+</map>

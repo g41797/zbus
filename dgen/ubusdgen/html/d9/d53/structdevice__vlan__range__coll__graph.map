@@ -1,0 +1,5 @@
+<map id="device_vlan_range" name="device_vlan_range">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,198,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,150,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,54,104,132,99,132,99,54"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="udebug_remote_buf_snapshot" name="udebug_remote_buf_snapshot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,306,138"/>
+<area shape="rect" id="Node000002" href="$d2/d1b/udebug-remote_8c.html#abc524dd87ff32c5591a36620452e8aed" title=" " alt="" coords="354,104,606,138"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,118,338,118,338,124,306,124"/>
+<area shape="rect" id="Node000003" href="$d2/db1/udebug-priv_8h.html#a6c40d5952bf134741d84dd1b2e7ddaaf" title=" " alt="" coords="693,5,789,39"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="214,101,353,66,529,40,677,24,678,30,530,45,354,71,215,106"/>
+<area shape="rect" id="Node000004" href="$d2/db1/udebug-priv_8h.html#a9869a47061e9d728042f4e6cae8f8cdb" title=" " alt="" coords="691,68,791,102"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="256,101,353,89,528,81,675,81,675,86,528,86,354,94,257,106"/>
+<area shape="rect" id="Node000005" href="$dd/d8f/udebug-proto_8h.html#a6f1646c13f5e0a398c922ba5c5d2f098" title=" " alt="" coords="654,136,828,170"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="255,136,354,148,503,154,638,153,638,159,503,159,353,153,255,141"/>
+<area shape="rect" id="Node000006" href="$dd/d8f/udebug-proto_8h.html#a6f62ecdd88f28de0991a3ba12ccd7b71" title=" " alt="" coords="396,213,564,247"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="202,136,355,192,401,206,399,211,353,197,200,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="526,101,679,42,681,47,528,106"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="606,101,675,91,676,96,607,106"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="607,134,639,138,638,143,606,139"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="rpc_uci_merge_delete" name="rpc_uci_merge_delete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,227,155"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="278,92,429,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,122,262,117,263,123,227,127"/>
+<area shape="rect" id="Node000007" href="$d4/dad/uci_8c.html#a29f0321e3e1f1be27348e4d3d19fd549" title=" " alt="" coords="275,149,432,183"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="227,149,259,152,259,158,227,154"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="520,5,631,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,89,479,48,504,39,506,44,481,53,389,94"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="485,63,666,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="429,96,469,91,469,96,430,101"/>
+<area shape="rect" id="Node000005" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="490,120,660,154"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="430,116,475,122,474,127,429,121"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="480,177,670,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="408,124,433,134,457,149,481,164,494,169,492,174,479,169,454,154,431,139,406,129"/>
+</map>

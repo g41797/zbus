@@ -1,0 +1,15 @@
+<map id="ubus_request_data" name="ubus_request_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,284,418,317"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,156,103,190"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,199,115,230,156,257,188,271,222,281,220,286,186,276,153,262,111,234,77,203"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,156,224,190"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,198,303,281,299,285,203,202"/>
+<area shape="rect" id="Node000004" href="$db/d55/libubus_8h.html#d6/d86/structubus__acl__key" title=" " alt="" coords="248,156,391,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,205,322,283,317,283,317,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="288,5,351,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="322,54,322,156,317,156,317,54"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="415,156,475,190"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="420,202,337,285,334,281,416,199"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="518,156,563,190"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="533,206,518,235,494,262,458,282,419,294,417,289,456,277,491,258,514,232,528,203"/>
+</map>

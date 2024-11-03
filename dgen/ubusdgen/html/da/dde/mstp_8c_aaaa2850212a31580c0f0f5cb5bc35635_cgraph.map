@@ -1,0 +1,9 @@
+<map id="PRSM_to_RECEIVE" name="PRSM_to_RECEIVE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,196,96"/>
+<area shape="rect" id="Node000002" href="$da/dde/mstp_8c.html#a82ad9ff1771870087b0b92d6c20695f3" title=" " alt="" coords="246,5,426,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,60,248,41,250,46,173,65"/>
+<area shape="rect" id="Node000003" href="$da/dde/mstp_8c.html#adf74fca626fc490ff8c0633ffd5ff83b" title=" " alt="" coords="264,63,408,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,77,248,77,248,82,196,82"/>
+<area shape="rect" id="Node000004" href="$da/dde/mstp_8c.html#a112fb3935818920294a6e6061e6909e3" title=" " alt="" coords="244,120,428,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,94,250,113,248,118,172,99"/>
+</map>

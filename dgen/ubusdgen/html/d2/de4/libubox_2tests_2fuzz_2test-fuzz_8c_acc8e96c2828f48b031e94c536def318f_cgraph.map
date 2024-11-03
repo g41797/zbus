@@ -1,0 +1,19 @@
+<map id="fuzz_blob_parse" name="fuzz_blob_parse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,176,176,210"/>
+<area shape="rect" id="Node000002" href="$d4/da0/blob_8c.html#a9a668371aa63dfedae931f7ac76de45d" title=" " alt="" coords="224,176,446,210"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,190,208,190,208,196,176,196"/>
+<area shape="rect" id="Node000003" href="$d4/da0/blob_8c.html#a2040eb3393cd5881814738765e4f2c66" title=" " alt="" coords="494,135,658,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,173,478,166,479,171,437,178"/>
+<area shape="rect" id="Node000008" href="$d8/d3c/blob_8h.html#a2c4753820a7472bba7b999fbba79df01" title=" " alt="" coords="723,229,864,263"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="447,203,708,234,707,239,446,208"/>
+<area shape="rect" id="Node000004" href="$d4/da0/blob_8c.html#a6b6c429265d86411d05951d2fae7289a" title=" " alt="" coords="706,5,881,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="594,132,642,90,705,48,715,43,717,48,708,52,645,95,597,136"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="738,63,849,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="627,132,705,105,724,99,725,104,707,110,628,137"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/blob_8h.html#ac79cacbc6a47f754832dc10bafa3b761" title=" " alt="" coords="750,120,837,154"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="658,143,735,138,735,143,659,149"/>
+<area shape="rect" id="Node000007" href="$d8/d3c/blob_8h.html#a9921d2b89577d3344abbb66f24773e32" title=" " alt="" coords="929,203,1027,236"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="659,163,914,206,913,211,658,168"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="616,166,707,208,737,221,735,225,705,213,613,171"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="864,233,913,226,913,231,865,239"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="wireless_check_interface" name="wireless_check_interface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,255,126"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#a6c1cc8e52e96bf9698f6b0f65ad48603" title=" " alt="" coords="303,92,506,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,106,287,106,287,112,255,112"/>
+<area shape="rect" id="Node000003" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="554,92,705,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,106,539,106,539,112,507,112"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="793,5,904,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="662,89,752,48,777,39,779,44,754,53,665,94"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="758,63,939,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="706,96,742,91,743,96,706,101"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="763,120,934,154"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="706,116,748,121,747,127,706,121"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="753,177,944,211"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="666,124,754,164,771,170,769,175,752,169,664,129"/>
+</map>

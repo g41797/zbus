@@ -1,0 +1,9 @@
+<map id="device_list_insert" name="device_list_insert">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,185,96"/>
+<area shape="rect" id="Node000002" href="$d2/d62/udevtrigger_8c.html#a5d577a94a23433606da78b3c26566f18" title=" " alt="" coords="233,5,445,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,60,249,41,250,46,170,65"/>
+<area shape="rect" id="Node000003" href="$d2/d62/udevtrigger_8c.html#a272f68ed68684f6249aaff30d1500a6f" title=" " alt="" coords="246,63,432,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,77,230,77,230,82,185,82"/>
+<area shape="rect" id="Node000004" href="$d2/d62/udevtrigger_8c.html#a9be60204687accb46711e68a24353d8a" title=" " alt="" coords="260,120,418,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,94,250,113,249,118,169,99"/>
+</map>

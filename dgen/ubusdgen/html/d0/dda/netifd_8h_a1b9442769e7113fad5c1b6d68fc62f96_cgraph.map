@@ -1,0 +1,21 @@
+<map id="netifd_kill_process" name="netifd_kill_process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,196,129"/>
+<area shape="rect" id="Node000002" href="$d1/dd7/netifd_2main_8c.html#a62647c37c1eebbb960baeabf44a8cd2e" title=" " alt="" coords="244,53,465,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,94,235,87,236,92,197,99"/>
+<area shape="rect" id="Node000009" href="$d1/d08/uloop_8c.html#a49ba044023de765e2d9d14db25d1845b" title=" " alt="" coords="245,124,464,157"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="196,120,230,124,230,129,196,126"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="972,38,1057,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,50,456,35,513,23,628,9,719,3,809,7,924,23,958,31,956,36,923,28,809,13,719,8,628,14,513,28,457,40,405,55"/>
+<area shape="rect" id="Node000005" href="$d6/d26/ustream_8c.html#a55eb7ea0d6ed61f253f5689798ccf5c3" title=" " alt="" coords="513,38,655,72"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="465,60,497,58,498,63,465,65"/>
+<area shape="rect" id="Node000008" href="$da/d79/ustream_8h.html#aa8f30f3e3f083f89504998e9d5747752" title=" " alt="" coords="515,96,654,129"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="449,85,500,94,499,99,448,90"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="1105,38,1199,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1057,52,1089,52,1089,58,1057,58"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="703,38,924,72"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="656,52,688,52,688,58,656,58"/>
+<area shape="rect" id="Node000007" href="$d6/d26/ustream_8c.html#a133847346c9a2d708d19c8a056f728bc" title=" " alt="" coords="705,96,922,129"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="655,70,729,89,727,94,653,75"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="924,52,956,52,956,58,924,58"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="431,155,532,172,657,181,724,180,792,173,859,160,923,139,943,128,961,114,991,82,995,86,965,118,946,133,925,144,860,165,793,178,724,185,657,186,531,177,430,160"/>
+</map>

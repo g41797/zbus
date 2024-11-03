@@ -1,0 +1,7 @@
+<map id="signal_consume" name="signal_consume">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,175,68"/>
+<area shape="rect" id="Node000002" href="$d1/d08/uloop_8c.html#af185ff37b682749ea2a17ad4d2c17a87" title=" " alt="" coords="223,5,333,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,36,207,31,208,36,176,41"/>
+<area shape="rect" id="Node000003" href="$d1/d08/uloop_8c.html#a7bdb54dcca4b1d26a6b773ca4eaa057a" title=" " alt="" coords="224,63,332,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,62,209,67,208,72,175,67"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ubus_get_obj_type" name="ubus_get_obj_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,199,63"/>
+<area shape="rect" id="Node000002" href="$d6/d41/ubusd__id_8h.html#a526b9139c9cc1b1790a97775070cb6af" title=" " alt="" coords="247,29,385,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,44,231,44,231,49,199,49"/>
+<area shape="rect" id="Node000003" href="$df/dc2/avl_8c.html#a0e08d7ee7d67ff58eeea30dd8a9356d1" title=" " alt="" coords="433,29,526,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,44,418,44,418,49,386,49"/>
+<area shape="rect" id="Node000004" href="$df/dc2/avl_8c.html#a55d3dbabb73970f597eff3d04809f4ef" title=" " alt="" coords="574,29,705,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="527,44,559,44,559,49,527,49"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="610,30,607,20,611,11,622,5,640,3,658,5,669,12,666,16,656,10,639,8,624,10,615,15,612,20,615,28"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/watchdog.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/watchdog.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1092,5,1378,85"/>
+<area shape="rect" id="Node000002" href="$d8/d60/init_8c.html" title=" " alt="" coords="5,145,292,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1077,53,915,62,721,77,512,101,305,136,261,146,260,141,304,130,511,95,721,72,915,56,1076,48"/>
+<area shape="rect" id="Node000003" href="$dd/de5/preinit_8c.html" title=" " alt="" coords="316,145,602,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1077,64,857,91,735,111,616,136,574,146,573,141,615,130,734,106,856,86,1076,58"/>
+<area shape="rect" id="Node000004" href="$da/d06/procd_8c.html" title=" " alt="" coords="627,145,913,224"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1078,92,927,136,891,146,889,141,925,130,1077,87"/>
+<area shape="rect" id="Node000005" href="$d0/dc9/state_8c.html" title=" " alt="" coords="937,145,1224,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1181,98,1127,146,1123,142,1178,94"/>
+<area shape="rect" id="Node000006" href="$d8/d1d/procd_2system_8c.html" title=" " alt="" coords="1248,145,1534,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1293,93,1348,142,1345,146,1289,97"/>
+<area shape="rect" id="Node000007" href="$db/d65/sysupgrade_8c.html" title=" " alt="" coords="1559,145,1845,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1394,87,1547,130,1582,141,1581,146,1545,136,1393,92"/>
+<area shape="rect" id="Node000008" href="$d3/d9f/upgraded_8c.html" title=" " alt="" coords="1869,133,2156,236"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1394,58,1615,86,1737,106,1857,130,1869,133,1868,139,1856,136,1736,111,1614,91,1394,64"/>
+<area shape="rect" id="Node000009" href="$d6/d88/watchdog_8c.html" title=" " alt="" coords="2180,145,2466,224"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1394,48,1556,56,1750,71,1960,95,2168,130,2212,141,2210,146,2167,136,1959,101,1750,77,1555,62,1393,53"/>
+</map>

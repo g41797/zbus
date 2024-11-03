@@ -1,0 +1,9 @@
+<map id="rpc_file_remove" name="rpc_file_remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,8,172,42"/>
+<area shape="rect" id="Node000002" href="$d6/d13/file_8c.html#a090b8a33eecdf9cc91830fbfc75b1bed" title=" " alt="" coords="528,8,702,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,11,220,8,350,3,480,8,513,10,512,15,480,13,350,8,220,13,172,17"/>
+<area shape="rect" id="Node000003" href="$d6/d13/file_8c.html#a59f9f0d9dd8a49a36aa272f9fc7bb8a9" title=" " alt="" coords="220,47,480,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,34,217,41,216,46,172,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="469,43,512,37,513,42,470,49"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="303,48,298,37,305,28,322,22,350,20,379,22,396,29,394,34,378,28,350,25,323,27,308,32,304,38,308,45"/>
+</map>

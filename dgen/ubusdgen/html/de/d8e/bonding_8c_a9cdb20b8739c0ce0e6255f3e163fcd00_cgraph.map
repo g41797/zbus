@@ -1,0 +1,15 @@
+<map id="bonding_apply_settings" name="bonding_apply_settings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,246,126"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#a6c1cc8e52e96bf9698f6b0f65ad48603" title=" " alt="" coords="294,92,497,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,106,278,106,278,112,246,112"/>
+<area shape="rect" id="Node000003" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="545,92,696,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="498,106,530,106,530,112,498,112"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="784,5,895,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,89,743,48,768,39,770,44,745,53,656,94"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="749,63,930,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="697,96,733,91,734,96,697,101"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="754,120,925,154"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="697,116,739,121,738,127,697,121"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="744,177,935,211"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="657,124,745,164,762,170,760,175,743,169,655,129"/>
+</map>

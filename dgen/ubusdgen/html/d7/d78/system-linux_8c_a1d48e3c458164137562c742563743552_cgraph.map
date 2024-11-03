@@ -1,0 +1,9 @@
+<map id="system_set_sendredirects" name="system_set_sendredirects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,265,68"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#ac58f220bc6996b3d09ae09bac6f9347b" title=" " alt="" coords="313,35,543,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,49,297,49,297,54,265,54"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#a8739ce29ec61523eeece026a193f449e" title=" " alt="" coords="591,5,759,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,35,575,31,576,37,544,40"/>
+<area shape="rect" id="Node000004" href="$d7/d78/system-linux_8c.html#acb05bf0ad9771050f5b80128eb00a5a6" title=" " alt="" coords="623,63,727,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="544,62,608,69,607,75,543,67"/>
+</map>

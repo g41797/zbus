@@ -1,0 +1,7 @@
+<map id="system_neighbor_msg" name="system_neighbor_msg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,235,68"/>
+<area shape="rect" id="Node000002" href="$d4/d96/netifd_2utils_8c.html#a13d9536923c5ebce0c233ea375702789" title=" " alt="" coords="319,5,492,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,37,303,30,304,35,235,42"/>
+<area shape="rect" id="Node000003" href="$dc/db2/system_8h.html#a7b2b1c8437df1396d066c3d37650f748" title=" " alt="" coords="283,63,528,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,60,267,63,267,69,235,65"/>
+</map>

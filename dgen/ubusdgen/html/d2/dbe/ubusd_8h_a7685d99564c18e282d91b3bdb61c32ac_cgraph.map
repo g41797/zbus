@@ -1,0 +1,11 @@
+<map id="ubus_msg_list_free" name="ubus_msg_list_free">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,203,96"/>
+<area shape="rect" id="Node000002" href="$da/d23/list_8h.html#ae1cde0f50b85945cfff23be4fc1586f4" title=" " alt="" coords="270,33,393,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,64,254,57,255,63,204,69"/>
+<area shape="rect" id="Node000005" href="$d9/de0/ubusd_8c.html#a19a646e5c3d7ddd2cb4004d68896f12a" title=" " alt="" coords="251,91,412,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="204,89,236,93,235,98,203,94"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="497,5,591,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,39,481,28,482,33,394,45"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#aea85dd50b9129ddaa3e3c67ed55804e4" title=" " alt="" coords="460,63,628,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="394,56,445,63,444,68,393,61"/>
+</map>

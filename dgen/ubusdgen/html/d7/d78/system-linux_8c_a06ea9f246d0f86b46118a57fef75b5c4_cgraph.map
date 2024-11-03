@@ -1,0 +1,19 @@
+<map id="create_hotplug_event_socket" name="create_hotplug_event_socket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,225,80"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#a69e1b3f5553c295b988b340f60550e6e" title=" " alt="" coords="273,35,523,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,49,257,49,257,54,225,54"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#a81fc477da95962ced2fc67bd3d02b824" title=" " alt="" coords="571,5,717,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="523,34,555,30,556,35,524,39"/>
+<area shape="rect" id="Node000005" href="$d1/d08/uloop_8c.html#a570d5b4ff73cb373a6ca0ac54a9726a0" title=" " alt="" coords="572,63,716,96"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="524,63,556,67,556,72,523,68"/>
+<area shape="rect" id="Node000004" href="$d7/d78/system-linux_8c.html#aa58fc74e6a1cae688d8dfa1cf85b0b2d" title=" " alt="" coords="774,5,923,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="718,20,758,20,758,25,718,25"/>
+<area shape="rect" id="Node000006" href="$d3/d91/uloop-epoll_8c.html#a1b6212744c4241320adc3a2170525f20" title=" " alt="" coords="781,63,916,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="717,77,765,77,765,82,717,82"/>
+<area shape="rect" id="Node000007" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="765,120,932,154"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="707,94,772,113,770,118,706,99"/>
+<area shape="rect" id="Node000008" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="997,91,1182,124"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="932,124,981,118,982,123,932,129"/>
+<area shape="rect" id="Node000009" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="980,148,1199,182"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="932,144,965,148,964,153,932,149"/>
+</map>

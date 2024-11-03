@@ -1,0 +1,14 @@
+<map id="interface_update_proto_neighbor" name="interface_update_proto_neighbor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,240,80"/>
+<area shape="rect" id="Node000002" href="$da/d12/system-dummy_8c.html#a49dab130004c4304ca124ab88c1e696a" title=" " alt="" coords="288,5,512,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,36,272,33,272,38,241,42"/>
+<area shape="rect" id="Node000006" href="$da/d12/system-dummy_8c.html#a72a45a7669e7e3b0d4be0b0882632d03" title=" " alt="" coords="291,63,509,96"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,61,276,64,275,70,240,66"/>
+<area shape="rect" id="Node000003" href="$da/d12/system-dummy_8c.html#a7620b9efee3888ed52424576106cec70" title=" " alt="" coords="560,35,789,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,32,545,35,544,40,512,37"/>
+<area shape="rect" id="Node000004" href="$d4/d96/netifd_2utils_8c.html#a13d9536923c5ebce0c233ea375702789" title=" " alt="" coords="873,5,1047,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="789,37,858,30,858,35,790,42"/>
+<area shape="rect" id="Node000005" href="$dc/db2/system_8h.html#a7b2b1c8437df1396d066c3d37650f748" title=" " alt="" coords="837,63,1083,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="790,60,822,63,821,69,789,65"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="509,66,544,62,545,67,509,71"/>
+</map>

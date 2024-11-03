@@ -1,0 +1,17 @@
+<map id="netifd_ubus_add_fd" name="netifd_ubus_add_fd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,208,68"/>
+<area shape="rect" id="Node000002" href="$d3/d64/netifd_2system_8c.html#af74077ad4c212466f3c6c292d601643a" title=" " alt="" coords="256,5,486,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,38,240,34,241,39,209,43"/>
+<area shape="rect" id="Node000003" href="$db/d55/libubus_8h.html#a8d1b8df0ddf9b9d48428688890a0ce31" title=" " alt="" coords="285,63,457,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,60,270,66,269,71,208,65"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#a570d5b4ff73cb373a6ca0ac54a9726a0" title=" " alt="" coords="534,63,678,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,77,519,77,519,82,457,82"/>
+<area shape="rect" id="Node000005" href="$d3/d91/uloop-epoll_8c.html#a1b6212744c4241320adc3a2170525f20" title=" " alt="" coords="742,33,877,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="678,66,726,59,727,65,679,72"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="726,91,893,124"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="679,87,711,91,710,97,678,92"/>
+<area shape="rect" id="Node000007" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="958,61,1143,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="893,95,942,89,943,94,893,100"/>
+<area shape="rect" id="Node000008" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="941,119,1160,152"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="893,115,926,118,925,124,893,120"/>
+</map>

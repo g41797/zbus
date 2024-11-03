@@ -1,0 +1,6 @@
+<map id="create_devices" name="create_devices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,163,63"/>
+<area shape="rect" id="Node000002" href="$d0/d2b/libubox_2utils_8c.html#a9fb089901b41392a5ac197f3e18cc3f7" title=" " alt="" coords="211,29,307,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,44,195,44,195,49,163,49"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="227,30,223,20,228,11,240,5,259,3,279,5,290,12,288,16,277,10,259,8,242,10,232,15,229,20,232,28"/>
+</map>

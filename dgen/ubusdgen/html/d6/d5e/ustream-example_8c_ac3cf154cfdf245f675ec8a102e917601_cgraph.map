@@ -1,0 +1,15 @@
+<map id="client_notify_state" name="client_notify_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,193,68"/>
+<area shape="rect" id="Node000002" href="$d6/d5e/ustream-example_8c.html#aa8f3213bb3fb2aa807cc67b3b8d2e143" title=" " alt="" coords="241,35,368,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,49,225,49,225,54,193,54"/>
+<area shape="rect" id="Node000003" href="$d6/d26/ustream_8c.html#a55eb7ea0d6ed61f253f5689798ccf5c3" title=" " alt="" coords="416,35,558,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,49,400,49,400,54,368,54"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="606,5,827,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="559,40,591,36,591,41,559,45"/>
+<area shape="rect" id="Node000007" href="$d6/d26/ustream_8c.html#a133847346c9a2d708d19c8a056f728bc" title=" " alt="" coords="608,63,825,96"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="559,58,593,62,592,67,559,63"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="875,5,960,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="827,20,859,20,859,25,827,25"/>
+<area shape="rect" id="Node000006" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="1008,5,1102,39"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="960,20,992,20,992,25,960,25"/>
+</map>

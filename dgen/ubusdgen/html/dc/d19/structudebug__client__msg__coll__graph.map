@@ -1,0 +1,9 @@
+<map id="udebug_client_msg" name="udebug_client_msg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,133,264,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,91,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,51,87,79,111,107,139,130,136,135,107,111,82,82,63,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,213,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,54,167,132,161,132,161,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,5,488,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="326,50,191,135,188,130,323,45"/>
+</map>

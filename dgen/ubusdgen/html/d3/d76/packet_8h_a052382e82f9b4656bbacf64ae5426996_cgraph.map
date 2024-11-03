@@ -1,0 +1,21 @@
+<map id="packet_sock_init" name="packet_sock_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,177,68"/>
+<area shape="rect" id="Node000002" href="$de/df3/packet_8c.html#a2c6329684a08625f1cbc2ad2ca5dd877" title=" " alt="" coords="225,5,369,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,37,210,32,210,37,178,42"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#a570d5b4ff73cb373a6ca0ac54a9726a0" title=" " alt="" coords="225,63,369,96"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,61,210,65,209,70,177,66"/>
+<area shape="rect" id="Node000003" href="$dc/d8e/worker_8c.html#ab15dfc282bf3fe773ef4eb0fb90adbe8" title=" " alt="" coords="417,5,629,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,20,401,20,401,25,369,25"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#a5f3c4582c49b990c9fb4f5c83f8400d1" title=" " alt="" coords="722,5,852,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="630,20,707,20,707,25,630,25"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="945,5,1046,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="852,20,929,20,929,25,852,25"/>
+<area shape="rect" id="Node000007" href="$d3/d91/uloop-epoll_8c.html#a1b6212744c4241320adc3a2170525f20" title=" " alt="" coords="456,63,590,96"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="370,77,441,77,441,82,370,82"/>
+<area shape="rect" id="Node000008" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="440,120,606,154"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="367,94,440,113,438,118,365,99"/>
+<area shape="rect" id="Node000009" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="695,91,879,124"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="606,125,679,117,679,122,607,130"/>
+<area shape="rect" id="Node000010" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="677,148,897,182"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="607,143,662,149,662,154,606,148"/>
+</map>

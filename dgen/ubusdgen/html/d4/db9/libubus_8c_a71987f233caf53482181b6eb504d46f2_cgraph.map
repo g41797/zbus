@@ -1,0 +1,19 @@
+<map id="ubus_free" name="ubus_free">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,118,96"/>
+<area shape="rect" id="Node000002" href="$d4/db9/libubus_8c.html#a7390a5f2c227d5ba53e2bd65afda1cfc" title=" " alt="" coords="166,63,333,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,77,150,77,150,82,118,82"/>
+<area shape="rect" id="Node000003" href="$d4/da0/blob_8c.html#a58d1b624b96aa768608f45d390cc0d59" title=" " alt="" coords="418,5,564,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,60,402,40,404,46,324,65"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="408,63,574,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="334,77,392,77,392,82,334,82"/>
+<area shape="rect" id="Node000007" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="381,120,601,154"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="324,94,403,113,402,118,322,99"/>
+<area shape="rect" id="Node000005" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="667,5,851,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="573,59,661,40,663,45,574,65"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="649,63,869,96"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="575,77,634,77,634,82,575,82"/>
+<area shape="rect" id="Node000008" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="716,120,802,154"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="602,134,701,134,701,140,602,140"/>
+<area shape="rect" id="Node000009" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="917,120,1011,154"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="802,134,901,134,901,140,802,140"/>
+</map>

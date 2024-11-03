@@ -1,0 +1,9 @@
+<map id="rule_out_cb" name="rule_out_cb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,133,96"/>
+<area shape="rect" id="Node000002" href="$d7/d27/iprule_8c.html#a4d0b448b056ef96781a7a739d10d0f77" title=" " alt="" coords="219,5,337,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,60,203,40,205,45,133,65"/>
+<area shape="rect" id="Node000003" href="$da/d12/system-dummy_8c.html#aee9e4cf147264086eb292977c8df60d1" title=" " alt="" coords="181,63,375,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,77,165,77,165,82,133,82"/>
+<area shape="rect" id="Node000004" href="$da/d12/system-dummy_8c.html#abcae62722c192dc27b24ea60cfdb3c77" title=" " alt="" coords="184,120,372,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,94,200,113,199,118,132,99"/>
+</map>

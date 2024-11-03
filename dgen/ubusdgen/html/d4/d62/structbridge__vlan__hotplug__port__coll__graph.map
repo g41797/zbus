@@ -1,0 +1,14 @@
+<map id="bridge_vlan_hotplug_port" name="bridge_vlan_hotplug_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,227,303,261"/>
+<area shape="rect" id="Node000002" href="$da/d23/list_8h.html#d9/d93/structlist__head" title=" " alt="" coords="5,116,109,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,158,159,225,155,228,83,162"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="125,122,132,126,135,133,127,143,109,146,108,141,125,138,130,133,128,130,123,127"/>
+<area shape="rect" id="Node000003" href="$db/de9/device_8h.html#d7/db9/structbridge__vlan__port" title=" " alt="" coords="204,116,380,150"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="265,162,194,228,190,225,262,158"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="157,5,219,39"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="199,52,218,84,237,100,257,113,254,118,233,105,214,88,195,55"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="243,5,340,39"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="294,55,294,116,289,116,289,55"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="364,5,438,39"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="381,53,350,88,315,118,311,114,346,84,377,50"/>
+</map>

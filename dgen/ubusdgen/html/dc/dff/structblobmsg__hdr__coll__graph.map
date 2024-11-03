@@ -1,0 +1,7 @@
+<map id="blobmsg_hdr" name="blobmsg_hdr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,110,184,144"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,103,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,54,53,70,58,85,68,97,81,107,78,112,64,101,54,87,48,71,47,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="129,5,214,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,54,144,87,128,111,124,108,140,85,156,52"/>
+</map>

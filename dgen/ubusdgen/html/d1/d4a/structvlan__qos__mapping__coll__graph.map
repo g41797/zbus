@@ -1,0 +1,12 @@
+<map id="vlan_qos_mapping" name="vlan_qos_mapping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,250,322,284"/>
+<area shape="rect" id="Node000002" href="$d9/dd0/netifd_2utils_8h.html#d1/d51/structvlist__simple__node" title=" " alt="" coords="50,122,235,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,167,217,248,212,251,159,170"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#d9/d93/structlist__head" title=" " alt="" coords="5,12,109,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,56,132,120,128,123,77,59"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="125,18,132,22,135,29,127,38,109,42,108,37,125,34,130,28,128,25,123,22"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="204,12,249,45"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="207,59,157,123,153,120,203,56"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="259,122,356,156"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="293,171,258,228,240,251,236,248,253,224,289,168"/>
+</map>

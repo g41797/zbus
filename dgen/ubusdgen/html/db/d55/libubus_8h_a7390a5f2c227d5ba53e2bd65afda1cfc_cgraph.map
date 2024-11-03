@@ -1,0 +1,17 @@
+<map id="ubus_shutdown" name="ubus_shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,173,96"/>
+<area shape="rect" id="Node000002" href="$d4/da0/blob_8c.html#a58d1b624b96aa768608f45d390cc0d59" title=" " alt="" coords="258,5,404,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,60,242,40,243,46,163,65"/>
+<area shape="rect" id="Node000003" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="248,63,414,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,77,232,77,232,82,173,82"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="221,120,441,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="163,94,243,113,241,118,162,99"/>
+<area shape="rect" id="Node000004" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="507,5,691,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,59,501,40,502,45,413,65"/>
+<area shape="rect" id="Node000005" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="489,63,708,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="415,77,473,77,473,82,415,82"/>
+<area shape="rect" id="Node000007" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="556,120,641,154"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="442,134,540,134,540,140,442,140"/>
+<area shape="rect" id="Node000008" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="756,120,851,154"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="642,134,741,134,741,140,642,140"/>
+</map>

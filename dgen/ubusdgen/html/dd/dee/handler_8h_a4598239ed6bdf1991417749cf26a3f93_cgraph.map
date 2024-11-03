@@ -1,0 +1,20 @@
+<map id="netifd_init_extdev_handlers" name="netifd_init_extdev_handlers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,191,108"/>
+<area shape="rect" id="Node000002" href="$db/dd1/handler_8c.html#af3bbcb69e6b931add9bad05b54c4763e" title=" " alt="" coords="266,5,420,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,55,253,40,254,46,192,60"/>
+<area shape="rect" id="Node000003" href="$db/dd1/handler_8c.html#a2f5796b522528ce1f6f75f65782adc54" title=" " alt="" coords="261,63,425,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,77,246,77,246,82,191,82"/>
+<area shape="rect" id="Node000005" href="$db/dd1/handler_8c.html#a950cb1c480386af60e9341e400d0c513" title=" " alt="" coords="239,121,447,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,103,226,113,225,118,190,108"/>
+<area shape="rect" id="Node000004" href="$d3/d64/netifd_2system_8c.html#af74077ad4c212466f3c6c292d601643a" title=" " alt="" coords="495,63,725,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="425,77,480,77,480,82,425,82"/>
+<area shape="rect" id="Node000006" href="$db/dd1/handler_8c.html#a24b188614b92e6578443c052022202fc" title=" " alt="" coords="518,121,703,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="448,146,502,146,502,152,448,152"/>
+<area shape="rect" id="Node000007" href="$dd/dee/handler_8h.html#a1a049d2f3265abb34a6ef556caabf12d" title=" " alt="" coords="1026,105,1198,139"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="703,127,773,117,875,113,978,117,1010,117,1010,123,978,122,875,119,774,122,703,132"/>
+<area shape="rect" id="Node000008" href="$dd/dee/handler_8h.html#a7ead0fb6d3b5dd13c053b5e6dad6d8ad" title=" " alt="" coords="802,132,949,166"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="703,146,786,146,786,152,703,152"/>
+<area shape="rect" id="Node000009" href="$d3/d75/netifd_2netifd_8h.html#a3ce86310645cf21bbece1e540c93a7ad" title=" " alt="" coords="773,189,978,223"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="704,166,780,183,779,188,703,171"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="949,138,1010,131,1011,136,950,143"/>
+</map>

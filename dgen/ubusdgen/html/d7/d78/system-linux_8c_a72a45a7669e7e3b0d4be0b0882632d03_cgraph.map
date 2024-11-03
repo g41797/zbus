@@ -1,0 +1,7 @@
+<map id="system_del_neighbor" name="system_del_neighbor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,223,39"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#a87790cf08e5f75a8b6c3f725c59f24fc" title=" " alt="" coords="271,5,420,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,20,255,20,255,25,223,25"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#a792e179c92420629c7d7a431f32e6a76" title=" " alt="" coords="468,5,637,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,20,452,20,452,25,421,25"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ubus_msghdr_buf" name="ubus_msghdr_buf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,238,333,271"/>
+<area shape="rect" id="Node000002" href="$d5/d79/ubusmsg_8h.html#d2/d15/structubus__msghdr" title=" " alt="" coords="90,133,238,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,177,229,235,225,239,182,181"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,91,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="60,52,73,81,93,107,125,130,122,135,89,111,69,83,55,55"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="115,5,213,39"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="167,54,167,132,161,132,161,54"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="243,5,341,39"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="262,51,247,65,206,111,182,134,179,131,202,107,243,61,259,47"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/blob_8h.html#dc/dd9/structblob__attr" title=" " alt="" coords="262,133,365,167"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="300,54,313,132,308,133,295,55"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="295,181,253,239,248,235,291,177"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="372,5,434,39"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="399,55,389,83,373,111,345,135,342,131,369,107,384,81,394,53"/>
+</map>

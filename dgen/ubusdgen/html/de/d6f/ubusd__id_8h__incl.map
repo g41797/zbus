@@ -1,0 +1,15 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/ubus/ubusd_id.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/ubus/ubusd_id.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,329,85"/>
+<area shape="rect" id="Node000002" href="$d3/d51/avl_8h.html" title=" " alt="" coords="46,133,186,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,87,138,122,133,119,157,84"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="210,133,302,167"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="215,84,239,119,234,122,210,87"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,296,102,330"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,169,87,190,73,216,63,249,58,281,53,280,58,248,68,214,83,187,100,166"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="129,296,237,330"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="133,166,149,187,164,214,175,248,182,280,177,281,170,249,159,216,145,190,128,169"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html" title=" " alt="" coords="83,215,149,248"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="119,167,119,199,114,199,114,167"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="106,250,78,286,74,282,101,247"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="132,247,162,283,158,286,128,251"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hotplug_shutdown" name="hotplug_shutdown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,198,68"/>
+<area shape="rect" id="Node000002" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="246,35,412,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,49,230,49,230,54,198,54"/>
+<area shape="rect" id="Node000003" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="478,5,662,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,39,462,33,462,38,413,44"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="460,63,679,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,59,445,62,444,68,412,64"/>
+</map>

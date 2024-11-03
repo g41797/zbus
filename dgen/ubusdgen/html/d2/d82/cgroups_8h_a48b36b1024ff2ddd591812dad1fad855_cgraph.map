@@ -1,0 +1,10 @@
+<map id="cgroups_apply" name="cgroups_apply">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,161,80"/>
+<area shape="rect" id="Node000002" href="$d3/dd8/cgroups-bpf_8c.html#a824c3ba6008ad58aefdeff33f8c36734" title=" " alt="" coords="209,5,422,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,47,201,40,202,45,161,52"/>
+<area shape="rect" id="Node000004" href="$d0/d2b/libubox_2utils_8c.html#a9fb089901b41392a5ac197f3e18cc3f7" title=" " alt="" coords="267,87,364,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,74,252,90,251,95,160,79"/>
+<area shape="rect" id="Node000003" href="$d3/dd8/cgroups-bpf_8c.html#ab61eb90f8dc3fced1dcfc6806c0f6bf0" title=" " alt="" coords="470,5,593,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,20,454,20,454,25,422,25"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="276,87,272,77,278,68,292,62,315,60,340,62,354,69,352,74,339,68,315,65,294,67,281,72,277,78,281,85"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="usock" name="usock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,81,150"/>
+<area shape="rect" id="Node000002" href="$d1/dd5/usock_8h.html#a7be021755da2683746e60598709bb718" title=" " alt="" coords="129,88,248,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,123,113,117,114,122,82,128"/>
+<area shape="rect" id="Node000008" href="$d2/d90/usock_8c.html#a7794edcc739eb0b2e1440bf2f966647c" title=" " alt="" coords="334,144,458,178"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="81,133,318,152,318,157,81,138"/>
+<area shape="rect" id="Node000003" href="$d2/d90/usock_8c.html#adc669e7fa902dd41507f3fa59822b004" title=" " alt="" coords="296,73,495,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,98,280,96,281,101,249,103"/>
+<area shape="rect" id="Node000004" href="$d2/d90/usock_8c.html#a8227c0c22880623fc6f125c5526b3e91" title=" " alt="" coords="592,5,717,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="462,70,577,40,578,45,463,75"/>
+<area shape="rect" id="Node000005" href="$d2/d90/usock_8c.html#a7d274a70486ef4ed9b64902941b820f5" title=" " alt="" coords="814,115,971,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="496,85,625,88,766,100,814,108,813,113,765,105,624,93,496,91"/>
+<area shape="rect" id="Node000007" href="$d2/d90/usock_8c.html#a99d7dc0da0b806d1e5d77e2a356bebe0" title=" " alt="" coords="543,115,766,148"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="496,103,530,109,529,114,495,109"/>
+<area shape="rect" id="Node000006" href="$d2/d90/usock_8c.html#ab513d9299021a9b29ca8d4429f668856" title=" " alt="" coords="1019,115,1185,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="971,129,1003,129,1003,134,971,134"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="766,129,798,129,798,134,766,134"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="458,162,599,167,682,165,765,158,814,150,815,155,766,163,683,170,599,172,458,168"/>
+</map>

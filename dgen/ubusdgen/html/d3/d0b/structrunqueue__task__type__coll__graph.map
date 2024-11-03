@@ -1,0 +1,9 @@
+<map id="runqueue_task_type" name="runqueue_task_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="406,83,615,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="118,5,180,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,22,283,31,382,49,429,63,471,80,469,85,427,68,381,54,282,36,195,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,71,293,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,97,405,97,405,102,308,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="20,152,278,231"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="292,152,441,114,442,119,294,157"/>
+</map>

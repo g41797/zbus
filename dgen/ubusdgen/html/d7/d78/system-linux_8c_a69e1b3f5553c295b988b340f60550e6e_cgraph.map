@@ -1,0 +1,17 @@
+<map id="create_raw_event_socket" name="create_raw_event_socket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,256,68"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#a81fc477da95962ced2fc67bd3d02b824" title=" " alt="" coords="304,5,450,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,34,288,30,289,35,256,39"/>
+<area shape="rect" id="Node000004" href="$d1/d08/uloop_8c.html#a570d5b4ff73cb373a6ca0ac54a9726a0" title=" " alt="" coords="305,63,449,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,63,289,67,289,72,256,68"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#aa58fc74e6a1cae688d8dfa1cf85b0b2d" title=" " alt="" coords="507,5,656,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,20,491,20,491,25,450,25"/>
+<area shape="rect" id="Node000005" href="$d3/d91/uloop-epoll_8c.html#a1b6212744c4241320adc3a2170525f20" title=" " alt="" coords="514,63,648,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,77,498,77,498,82,449,82"/>
+<area shape="rect" id="Node000006" href="$d1/d08/uloop_8c.html#a73e0613a3dcdc677611d2fd6efdcca9c" title=" " alt="" coords="498,120,664,154"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="440,94,505,113,503,118,438,99"/>
+<area shape="rect" id="Node000007" href="$d3/d91/uloop-epoll_8c.html#ae98d2f54596aacb1f0f176d0e565e2e2" title=" " alt="" coords="730,91,914,124"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="664,124,714,118,715,123,665,129"/>
+<area shape="rect" id="Node000008" href="$d1/d08/uloop_8c.html#abe443fe3f794c14f0aaa0c5f18a27ddd" title=" " alt="" coords="712,148,932,182"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="665,144,697,148,697,153,664,149"/>
+</map>

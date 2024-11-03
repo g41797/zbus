@@ -1,0 +1,16 @@
+<map id="hotplug_msg_find_var" name="hotplug_msg_find_var">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,231,68"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="284,63,436,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,62,269,66,268,72,231,67"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a6ee526c7b55debcecad8e34e3e6108d0" title=" " alt="" coords="279,5,441,39"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="231,35,263,31,263,37,232,40"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="529,5,640,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,60,513,38,514,43,429,65"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="494,63,675,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="436,77,478,77,478,82,436,82"/>
+<area shape="rect" id="Node000005" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="499,120,669,154"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="429,94,501,113,500,118,428,99"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="489,177,679,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="384,95,431,129,490,164,502,169,500,174,488,169,428,134,381,99"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="441,20,513,20,513,25,441,25"/>
+</map>

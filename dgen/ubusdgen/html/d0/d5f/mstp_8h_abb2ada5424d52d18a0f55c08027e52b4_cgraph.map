@@ -1,0 +1,5 @@
+<map id="MSTP_OUT_tx_bpdu" name="MSTP_OUT_tx_bpdu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,210,39"/>
+<area shape="rect" id="Node000002" href="$de/df3/packet_8c.html#aaac28dd323d4f09eaba98e69bb38bd61" title=" " alt="" coords="258,5,394,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,20,242,20,242,25,210,25"/>
+</map>

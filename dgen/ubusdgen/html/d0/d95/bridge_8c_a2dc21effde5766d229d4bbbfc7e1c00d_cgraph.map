@@ -1,0 +1,13 @@
+<map id="bridge_device_type_init" name="bridge_device_type_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,244,96"/>
+<area shape="rect" id="Node000002" href="$d5/d96/device_8c.html#ae3b96c6b5e033a5250f3965c5347d34a" title=" " alt="" coords="292,63,467,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,77,276,77,276,82,244,82"/>
+<area shape="rect" id="Node000003" href="$d5/d96/device_8c.html#a49c7dd91170e09f62aa5e1e1238d27b6" title=" " alt="" coords="532,5,702,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,60,529,41,530,46,452,65"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#a875b53c95596d9e8df15ac54f6d24ae6" title=" " alt="" coords="571,63,663,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="468,77,556,77,556,82,468,82"/>
+<area shape="rect" id="Node000006" href="$d3/d75/netifd_2netifd_8h.html#a3ce86310645cf21bbece1e540c93a7ad" title=" " alt="" coords="515,120,719,154"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="452,94,530,113,529,118,451,99"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="767,63,869,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="664,77,752,77,752,82,664,82"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ubusd_monitor_disconnect" name="ubusd_monitor_disconnect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,275,68"/>
+<area shape="rect" id="Node000002" href="$db/dc5/ubusd__monitor_8c.html#a43f63f868886320fb36981be6e4ccde1" title=" " alt="" coords="323,5,528,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,35,307,32,307,37,275,40"/>
+<area shape="rect" id="Node000003" href="$db/dc5/ubusd__monitor_8c.html#aee0b705d52b50ba29f429de1b04ff8d4" title=" " alt="" coords="323,63,528,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,62,307,65,307,71,275,67"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="576,63,661,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="528,77,560,77,560,82,528,82"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="709,63,804,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,77,694,77,694,82,662,82"/>
+</map>

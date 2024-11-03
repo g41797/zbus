@@ -1,0 +1,37 @@
+<map id="ubus_alloc_id" name="ubus_alloc_id">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,196,150,230"/>
+<area shape="rect" id="Node000002" href="$df/dc2/avl_8c.html#ab9041e08938920d5ae722e2d57dc20e2" title=" " alt="" coords="198,196,308,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,210,182,210,182,216,150,216"/>
+<area shape="rect" id="Node000003" href="$df/dc2/avl_8c.html#a55d3dbabb73970f597eff3d04809f4ef" title=" " alt="" coords="380,29,510,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,194,295,135,322,101,354,72,364,66,367,70,358,76,326,105,300,138,265,197"/>
+<area shape="rect" id="Node000004" href="$df/dc2/avl_8c.html#abd4899daa8ad959e6c9694dd5e4132a8" title=" " alt="" coords="364,87,526,120"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="273,193,310,166,355,137,381,124,383,129,357,142,313,170,277,198"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#a875b53c95596d9e8df15ac54f6d24ae6" title=" " alt="" coords="618,139,711,172"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="307,193,356,181,488,163,603,155,603,160,488,168,356,186,308,198"/>
+<area shape="rect" id="Node000007" href="$df/dc2/avl_8c.html#ab6f5b72e706a1955a5a5d6af278c677e" title=" " alt="" coords="356,196,534,230"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="309,210,340,210,340,216,309,216"/>
+<area shape="rect" id="Node000009" href="$df/dc2/avl_8c.html#a6de877c20c7b55fa52c80e7be87715fa" title=" " alt="" coords="396,253,494,287"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="309,227,382,249,381,254,308,232"/>
+<area shape="rect" id="Node000010" href="$da/d23/list_8h.html#abb4dd1eb7346eb35ea621351220e80ce" title=" " alt="" coords="388,311,502,344"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="272,228,309,263,357,297,375,305,372,310,355,302,306,267,268,232"/>
+<area shape="rect" id="Node000011" href="$df/dc2/avl_8c.html#a212673459e8e8ff2e11a8d093602d35e" title=" " alt="" coords="384,392,507,426"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="265,229,302,288,328,323,358,355,395,382,392,386,354,359,324,326,298,291,261,232"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="410,30,406,20,412,11,425,5,445,3,467,5,480,12,477,16,466,10,445,8,426,10,415,15,412,20,415,28"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="520,118,604,139,603,144,519,124"/>
+<area shape="rect" id="Node000006" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="795,168,896,202"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="712,160,780,172,779,177,711,166"/>
+<area shape="rect" id="Node000008" href="$da/d23/list_8h.html#a5f3c4582c49b990c9fb4f5c83f8400d1" title=" " alt="" coords="600,196,729,230"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="535,210,585,210,585,216,535,216"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="729,200,779,192,779,198,730,205"/>
+<area shape="poly" id="edge20_Node000011_Node000011" title=" " alt="" coords="410,393,406,383,412,373,425,367,445,365,467,368,480,374,477,379,466,373,445,371,426,373,415,377,412,383,415,391"/>
+<area shape="rect" id="Node000012" href="$df/dc2/avl_8c.html#a67b3db37af2f8ebc4f6895202c358604" title=" " alt="" coords="590,363,739,396"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="507,398,574,389,575,394,508,403"/>
+<area shape="rect" id="Node000015" href="$df/dc2/avl_8c.html#ab84f86be5fe7f7abcf8ffb6fa0a38700" title=" " alt="" coords="582,420,747,454"/>
+<area shape="poly" id="edge17_Node000011_Node000015" title=" " alt="" coords="508,414,567,422,566,427,507,419"/>
+<area shape="rect" id="Node000013" href="$df/dc2/avl_8c.html#aaf08ec177405c5e004b1ca33808f19da" title=" " alt="" coords="797,420,894,454"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="721,394,783,414,781,419,719,399"/>
+<area shape="rect" id="Node000014" href="$df/dc2/avl_8c.html#a0e2d83bace7533ed4cc93bdf2a94ad95" title=" " alt="" coords="799,363,892,396"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="739,377,784,377,784,382,739,382"/>
+<area shape="poly" id="edge18_Node000015_Node000013" title=" " alt="" coords="747,434,781,434,781,440,747,440"/>
+<area shape="poly" id="edge19_Node000015_Node000014" title=" " alt="" coords="719,417,784,396,785,401,721,422"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="bridge_remove_member" name="bridge_remove_member">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,149,252,183"/>
+<area shape="rect" id="Node000002" href="$d0/d95/bridge_8c.html#a8fd94dcd72be3999c98d2dca050d98bc" title=" " alt="" coords="300,120,543,154"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,151,284,148,284,153,252,156"/>
+<area shape="rect" id="Node000010" href="$d0/d95/bridge_8c.html#a20e19f55661b6aef94d02a1f4ae30065" title=" " alt="" coords="312,177,531,211"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="252,175,297,180,296,185,252,181"/>
+<area shape="rect" id="Node000003" href="$d0/d95/bridge_8c.html#a5a2934252ff7b10e0542f1382c10c5c5" title=" " alt="" coords="591,63,844,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,117,612,97,613,102,512,122"/>
+<area shape="rect" id="Node000008" href="$d5/d96/device_8c.html#a0af266bd53a1840f0e687a063a975bde" title=" " alt="" coords="640,120,796,154"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="543,134,624,134,624,140,543,140"/>
+<area shape="rect" id="Node000009" href="$da/d12/system-dummy_8c.html#a90fb1b671a962f13e2747b9ea7248cfa" title=" " alt="" coords="615,177,821,211"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="512,152,613,171,612,176,511,157"/>
+<area shape="rect" id="Node000004" href="$d0/d95/bridge_8c.html#ab79a9eef9841a0d32799f905973ad574" title=" " alt="" coords="911,5,1182,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="818,59,930,40,931,45,819,65"/>
+<area shape="rect" id="Node000006" href="$d0/d95/bridge_8c.html#adf333a6751024b04710b6553720658f5" title=" " alt="" coords="892,63,1201,96"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="845,77,877,77,877,82,845,82"/>
+<area shape="rect" id="Node000007" href="$d0/d95/bridge_8c.html#a92e755a1c9e82bb03f0a55af5a3109c1" title=" " alt="" coords="938,121,1155,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="802,94,924,120,923,126,801,100"/>
+<area shape="rect" id="Node000005" href="$da/d12/system-dummy_8c.html#a97d0cd6272e18f9663b5bcafbbe7ebe5" title=" " alt="" coords="1249,5,1454,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1183,20,1233,20,1233,25,1183,25"/>
+</map>

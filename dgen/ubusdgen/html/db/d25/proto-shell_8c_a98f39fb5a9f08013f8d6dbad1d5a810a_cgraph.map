@@ -1,0 +1,15 @@
+<map id="proto_shell_kill_command" name="proto_shell_kill_command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,263,126"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#a856562b4d96007d3ce1a052998451a0f" title=" " alt="" coords="311,92,496,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,106,295,106,295,112,263,112"/>
+<area shape="rect" id="Node000003" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="544,92,695,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,106,529,106,529,112,497,112"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="783,5,894,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="652,89,742,48,767,39,769,44,744,53,655,94"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="748,63,929,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="696,96,732,91,733,96,696,101"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="753,120,924,154"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="696,116,738,121,737,127,696,121"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="743,177,934,211"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="656,124,744,164,761,170,759,175,742,169,654,129"/>
+</map>

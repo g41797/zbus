@@ -1,0 +1,15 @@
+<map id="ubus_create_obj_method" name="ubus_create_obj_method">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,256,96"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/blob_8h.html#a2c4753820a7472bba7b999fbba79df01" title=" " alt="" coords="314,5,456,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,59,298,39,299,44,209,65"/>
+<area shape="rect" id="Node000004" href="$dd/dad/blobmsg_8h.html#a6ee526c7b55debcecad8e34e3e6108d0" title=" " alt="" coords="304,63,466,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,77,288,77,288,82,256,82"/>
+<area shape="rect" id="Node000006" href="$da/d23/list_8h.html#a5f3c4582c49b990c9fb4f5c83f8400d1" title=" " alt="" coords="320,120,450,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,94,305,116,304,122,208,100"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a9921d2b89577d3344abbb66f24773e32" title=" " alt="" coords="521,5,619,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,20,505,20,505,25,456,25"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="514,63,625,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,77,498,77,498,82,467,82"/>
+<area shape="rect" id="Node000007" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="519,120,620,154"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="450,134,504,134,504,140,450,140"/>
+</map>

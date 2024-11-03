@@ -1,0 +1,9 @@
+<map id="procd_inittab" name="procd_inittab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,147,39"/>
+<area shape="rect" id="Node000002" href="$d5/d73/inittab_8c.html#a0d79ba1bf57a05e542000f9f7bc4dc73" title=" " alt="" coords="195,5,316,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,20,179,20,179,25,147,25"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#a5f3c4582c49b990c9fb4f5c83f8400d1" title=" " alt="" coords="364,5,493,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,20,349,20,349,25,316,25"/>
+<area shape="rect" id="Node000004" href="$da/d23/list_8h.html#a9d61a1a731a0cf44336e2ee9e45f712d" title=" " alt="" coords="541,5,643,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="494,20,526,20,526,25,494,25"/>
+</map>

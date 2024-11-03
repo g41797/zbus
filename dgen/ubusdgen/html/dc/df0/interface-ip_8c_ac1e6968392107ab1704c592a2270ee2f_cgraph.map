@@ -1,0 +1,9 @@
+<map id="set_ip_source_policy" name="set_ip_source_policy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,214,96"/>
+<area shape="rect" id="Node000002" href="$da/d12/system-dummy_8c.html#aee9e4cf147264086eb292977c8df60d1" title=" " alt="" coords="277,5,472,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,59,278,40,279,45,191,65"/>
+<area shape="rect" id="Node000003" href="$da/d12/system-dummy_8c.html#abcae62722c192dc27b24ea60cfdb3c77" title=" " alt="" coords="281,63,468,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,77,265,77,265,82,214,82"/>
+<area shape="rect" id="Node000004" href="$da/d12/system-dummy_8c.html#a956997d89612ec8774b76854579547bf" title=" " alt="" coords="262,121,487,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,94,250,113,248,119,176,100"/>
+</map>

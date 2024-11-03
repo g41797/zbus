@@ -1,0 +1,14 @@
+<map id="station_update" name="station_update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,164,68"/>
+<area shape="rect" id="Node000002" href="$d4/da0/blob_8c.html#a4ebfbd8c9d53d542df64fbda9441fe0b" title=" " alt="" coords="212,5,375,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,38,196,33,196,38,164,43"/>
+<area shape="rect" id="Node000006" href="$d4/da0/blob_8c.html#ab136827d88751058f20b641510c93434" title=" " alt="" coords="217,63,370,96"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,59,202,65,201,70,163,65"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a3071b18c2bb742e04d7622379ee8fd3b" title=" " alt="" coords="423,35,565,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,31,408,36,407,42,375,37"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a2c4753820a7472bba7b999fbba79df01" title=" " alt="" coords="613,35,755,68"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,49,597,49,597,54,566,54"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/blob_8h.html#a9921d2b89577d3344abbb66f24773e32" title=" " alt="" coords="803,35,901,68"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="755,49,787,49,787,54,755,54"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="370,66,407,61,408,66,371,71"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="jail_capset" name="jail_capset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="59,202,177,236"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,103,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,54,43,114,46,146,57,177,67,189,81,199,78,204,64,193,53,179,41,148,37,114,43,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,226,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,55,177,114,169,147,156,179,139,203,134,200,152,177,164,146,172,113,180,54"/>
+</map>

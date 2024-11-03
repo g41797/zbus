@@ -1,0 +1,17 @@
+<map id="watchdog" name="watchdog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,227,391,261"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,122,263,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,161,305,224,302,229,178,166"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="287,122,384,156"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,172,338,226,333,226,333,172"/>
+<area shape="rect" id="Node000004" href="$dc/d56/uloop_8h.html#d8/d2b/structuloop__timeout" title=" " alt="" coords="409,122,561,156"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="450,167,360,229,357,224,447,163"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="578,130,587,139,579,148,562,151,561,146,577,143,582,139,574,135"/>
+<area shape="rect" id="Node000005" href="$da/d23/list_8h.html#d9/d93/structlist__head" title=" " alt="" coords="256,12,359,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="348,51,460,120,457,124,345,56"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="375,18,383,22,386,29,378,38,360,42,359,37,375,34,380,28,379,25,373,22"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="455,12,515,45"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="487,61,487,122,482,122,482,61"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="539,12,689,45"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="604,61,591,81,574,100,536,124,533,119,571,96,587,78,599,58"/>
+</map>

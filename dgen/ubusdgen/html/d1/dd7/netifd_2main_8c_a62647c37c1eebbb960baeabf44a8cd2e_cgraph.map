@@ -1,0 +1,16 @@
+<map id="netifd_delete_process" name="netifd_delete_process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,227,66"/>
+<area shape="rect" id="Node000002" href="$da/d23/list_8h.html#ab1708206f0f7e0a56550b35372203ba5" title=" " alt="" coords="733,5,819,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,29,274,17,398,10,522,9,718,16,718,21,521,14,399,15,275,22,196,34"/>
+<area shape="rect" id="Node000004" href="$d6/d26/ustream_8c.html#a55eb7ea0d6ed61f253f5689798ccf5c3" title=" " alt="" coords="275,32,417,66"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,46,259,46,259,52,227,52"/>
+<area shape="rect" id="Node000007" href="$da/d79/ustream_8h.html#aa8f30f3e3f083f89504998e9d5747752" title=" " alt="" coords="276,89,416,123"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="187,64,262,82,260,88,185,69"/>
+<area shape="rect" id="Node000003" href="$da/d23/list_8h.html#ae0988579c6b622299ee0f79accbf0779" title=" " alt="" coords="867,5,961,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="819,20,851,20,851,25,819,25"/>
+<area shape="rect" id="Node000005" href="$d1/d08/uloop_8c.html#a6231184d2f54ac1bc945ecb73c517d91" title=" " alt="" coords="465,32,685,66"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="418,46,450,46,450,52,418,52"/>
+<area shape="rect" id="Node000006" href="$d6/d26/ustream_8c.html#a133847346c9a2d708d19c8a056f728bc" title=" " alt="" coords="467,89,684,123"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="416,64,490,82,489,87,415,69"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="685,32,718,27,718,32,686,37"/>
+</map>

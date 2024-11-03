@@ -1,0 +1,9 @@
+<map id="MSTI_PortConfig" name="MSTI_PortConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="178,156,351,190"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,81,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,54,51,94,59,114,71,130,87,140,113,148,178,161,177,166,112,154,85,145,67,134,54,116,46,96,39,55"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="234,5,295,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,54,267,156,262,156,262,54"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="443,5,507,39"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="478,55,470,96,461,116,447,134,432,144,409,152,352,164,351,159,407,147,429,139,444,130,457,114,465,94,472,54"/>
+</map>

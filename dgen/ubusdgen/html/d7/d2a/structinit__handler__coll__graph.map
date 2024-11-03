@@ -1,0 +1,9 @@
+<map id="init_handler" name="init_handler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,133,247,167"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,17,68,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,59,120,107,155,130,153,135,117,111,61,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,5,272,62"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,77,185,133,179,133,179,77"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="295,17,341,51"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,63,203,135,199,130,286,58"/>
+</map>

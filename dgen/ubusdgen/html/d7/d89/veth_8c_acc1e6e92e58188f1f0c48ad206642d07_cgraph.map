@@ -1,0 +1,16 @@
+<map id="veth_apply_settings" name="veth_apply_settings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,211,126"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html#ab788ffb2ae75d047fa39be6e79571d20" title=" " alt="" coords="510,92,661,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,104,259,104,462,104,495,104,495,109,462,109,259,109,211,109"/>
+<area shape="rect" id="Node000007" href="$dd/dad/blobmsg_8h.html#a6c1cc8e52e96bf9698f6b0f65ad48603" title=" " alt="" coords="259,119,462,152"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="212,117,244,120,243,126,211,122"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/blob_8h.html#a66e0b636bd2bbafbf8701a1e91bbf857" title=" " alt="" coords="749,5,860,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="618,89,708,48,733,39,735,44,710,53,621,94"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html#a673de80167cf18faad1b4a21670d0cf3" title=" " alt="" coords="714,63,895,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="662,96,698,91,699,96,662,101"/>
+<area shape="rect" id="Node000005" href="$dd/dad/blobmsg_8h.html#ac239a83ed3c7f835e2b49f785953c934" title=" " alt="" coords="719,120,890,154"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="662,116,704,121,703,127,662,121"/>
+<area shape="rect" id="Node000006" href="$dd/dad/blobmsg_8h.html#a7613e130753e766f5d381c06b1f7b86f" title=" " alt="" coords="709,177,900,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="622,124,710,164,727,170,725,175,708,169,620,129"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="462,121,494,117,495,122,463,126"/>
+</map>

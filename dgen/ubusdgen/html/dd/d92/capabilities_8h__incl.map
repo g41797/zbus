@@ -1,0 +1,39 @@
+<map id="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/jail/capabilities.h" name="/home/g41797/CLionProjects/github.com/g41797/zbus/src/libs/procd/jail/capabilities.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="380,5,690,85"/>
+<area shape="rect" id="Node000002" href="$dd/dad/blobmsg_8h.html" title=" " alt="" coords="334,133,528,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,88,460,124,456,120,493,84"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="552,133,729,167"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="577,84,615,120,612,124,574,88"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="326,215,424,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,169,397,203,393,200,417,166"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/blob_8h.html" title=" " alt="" coords="449,215,528,248"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="445,166,470,200,466,203,440,169"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,378,113,412"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,247,437,251,353,273,271,299,181,336,104,373,102,368,179,331,269,294,352,268,436,246,447,242"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="443,296,534,330"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="491,249,491,281,486,281,486,249"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="137,378,229,412"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="449,249,392,270,331,299,270,335,218,371,215,366,267,330,328,294,390,266,447,244"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="558,296,651,330"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="513,247,570,285,567,289,510,251"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="676,296,760,330"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="529,244,661,290,660,295,527,249"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="783,296,871,330"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="529,238,769,293,767,298,528,244"/>
+<area shape="rect" id="Node000011" href="$d5/d1d/libubox_2utils_8h.html" title=" " alt="" coords="341,296,420,330"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="468,251,416,289,413,285,465,247"/>
+<area shape="poly" id="edge15_Node000011_Node000005" title=" " alt="" coords="342,327,128,379,127,374,340,322"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="342,333,238,374,236,369,340,328"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="253,378,364,412"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="368,332,335,368,331,365,364,329"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="389,378,516,412"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="397,329,430,365,426,368,393,332"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="540,378,658,412"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="421,326,541,370,539,375,419,331"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="682,378,780,412"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="421,324,432,327,548,352,668,375,667,380,547,357,430,333,419,330"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="804,378,885,412"/>
+<area shape="poly" id="edge17_Node000011_Node000016" title=" " alt="" coords="421,325,432,327,530,344,609,352,688,359,789,375,789,380,688,364,608,357,529,350,430,333,419,330"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="908,378,1095,412"/>
+<area shape="poly" id="edge18_Node000011_Node000017" title=" " alt="" coords="421,325,432,327,559,348,660,357,762,363,893,375,892,380,762,368,659,362,558,354,430,333,419,330"/>
+</map>

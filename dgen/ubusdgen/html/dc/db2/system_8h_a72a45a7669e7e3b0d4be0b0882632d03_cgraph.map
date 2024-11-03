@@ -1,0 +1,13 @@
+<map id="system_del_neighbor" name="system_del_neighbor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,223,68"/>
+<area shape="rect" id="Node000002" href="$d7/d78/system-linux_8c.html#a87790cf08e5f75a8b6c3f725c59f24fc" title=" " alt="" coords="311,5,460,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,37,295,29,296,35,223,42"/>
+<area shape="rect" id="Node000004" href="$da/d12/system-dummy_8c.html#a7620b9efee3888ed52424576106cec70" title=" " alt="" coords="271,63,500,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,60,255,63,255,69,223,65"/>
+<area shape="rect" id="Node000003" href="$d7/d78/system-linux_8c.html#a792e179c92420629c7d7a431f32e6a76" title=" " alt="" coords="586,5,755,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,20,570,20,570,25,461,25"/>
+<area shape="rect" id="Node000005" href="$d4/d96/netifd_2utils_8c.html#a13d9536923c5ebce0c233ea375702789" title=" " alt="" coords="584,63,757,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="500,77,569,77,569,82,500,82"/>
+<area shape="rect" id="Node000006" href="$dc/db2/system_8h.html#a7b2b1c8437df1396d066c3d37650f748" title=" " alt="" coords="548,120,793,154"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="473,94,569,114,568,119,472,100"/>
+</map>
