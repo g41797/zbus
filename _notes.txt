@@ -179,3 +179,6 @@ Length of zero terminated string
 
 tips for interacting with c
     https://zig.news/liyu1981/tips-for-interacting-with-c-1oo8
+
+Beginner's notes on Slices/Arrays/Strings
+    https://zig.news/david_vanderson/beginner-s-notes-on-slices-arrays-strings-5b67

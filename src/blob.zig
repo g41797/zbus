@@ -88,16 +88,16 @@ pub const Attribute = packed struct {
         const at: AttrType = @enumFromInt(attr.ahdr.id);
         const minLen = at.min_data_size();
 
-        if(!((at >= .Int8) || (at <= .DOUBLE))) {
-            if(minLen != attr.ahdr.plen) {
+        if (!((at >= .Int8) || (at <= .DOUBLE))) {
+            if (minLen != attr.ahdr.plen) {
                 return error.WrongPayloadlen;
             }
             return true;
         }
 
-        if(at == .STRING) {
+        if (at == .STRING) {
             const cstr: *u8 = @ptrCast(attr.data_ptr());
-            if(cstr[attr.ahdr.plen] != 0) {
+            if (cstr[attr.ahdr.plen] != 0) {
                 return error.NoSentinel;
             }
             return true;
