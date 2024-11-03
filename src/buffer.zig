@@ -43,7 +43,7 @@ pub const Buffer = struct {
         bfr.maxlen = maxlen;
         bfr.minlen = minlen;
         bfr.allocator = allocator;
-        _ = bfr.grow(null);
+        try bfr.grow(null);
         return;
     }
 
@@ -64,7 +64,7 @@ pub const Buffer = struct {
                 }
 
                 bfr.buffer = try bfr.allocator.alloc(u8, alloclen);
-                @memset(bfr.buffer, 0);
+                @memset(bfr.buffer.?, 0);
 
                 bfr.datalen = 0;
                 bfr.getoffset = 0;
@@ -73,22 +73,22 @@ pub const Buffer = struct {
                 break;
             }
 
-            alloclen = @min(bfr.buffer.len * 2, bfr.maxlen);
+            alloclen = @min(bfr.buffer.?.len * 2, bfr.maxlen);
 
             if (newlen) |bufflen| {
-                if (bufflen <= bfr.buffer.len) {
+                if (bufflen <= bfr.buffer.?.len) {
                     break;
                 }
                 alloclen = @min(bufflen, alloclen);
             }
 
-            const buffer = bfr.buffer;
-            defer bfr.allocator.free(buffer.?);
+            const buffer = bfr.buffer.?;
+            defer bfr.allocator.free(buffer);
             bfr.buffer = null;
 
             bfr.buffer = try bfr.allocator.alloc(u8, alloclen);
-            @memset(bfr.buffer, 0);
-            std.mem.copyForwards(u8, bfr.buffer[0..bfr.datalen], buffer[0..bfr.datalen]);
+            @memset(bfr.buffer.?, 0);
+            std.mem.copyForwards(u8, bfr.buffer.?[0..bfr.datalen], buffer[0..bfr.datalen]);
         }
 
         return;
@@ -96,11 +96,28 @@ pub const Buffer = struct {
 
     /// Prepare buffer for specific mode.
     pub fn set_mode(bfr: *Buffer, mode: Mode) !void {
-        _ = bfr.mode;
+        if (bfr.buffer == null) {
+            return error.EmptyBuffer;
+        }
+
         bfr.mode = mode;
 
-        // TODO add switch to new mode
-
+        switch (bfr.mode) {
+            .receive, .write => {
+                bfr.datalen = 0;
+                bfr.getoffset = 0;
+                bfr.putoffset = 0;
+                return;
+            },
+            .send, .read => {
+                bfr.getoffset = 0;
+                bfr.putoffset = 0;
+                return;
+            },
+            else => {
+                return error.WrongMode;
+            },
+        }
         return;
     }
 
@@ -141,7 +158,7 @@ pub const Buffer = struct {
             return;
         }
 
-        const avail = try bfr.available();
+        const avail = bfr.available();
         if (avail < data.len) {
             return error.NotEnoughSpace;
         }
@@ -165,7 +182,7 @@ pub const Buffer = struct {
             return;
         }
 
-        const avail = try bfr.available();
+        const avail = bfr.available();
         if (avail < len) {
             return error.NotEnoughSpace;
         }
@@ -185,7 +202,7 @@ pub const Buffer = struct {
             return;
         }
 
-        const avail = try bfr.available();
+        const avail = bfr.available();
         if (avail < len) {
             return error.CannotForwardAfterEndOfTheBuffer;
         }
@@ -202,6 +219,9 @@ pub const Buffer = struct {
             },
             .write => {
                 bfr.putoffset += len;
+            },
+            else => {
+                return error.EmptyBuffer;
             },
         }
 
