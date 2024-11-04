@@ -46,16 +46,16 @@ pub const ATTR_ALIGN = @as(c_int, 4);
 pub const AttrHdr = packed struct {
     field: bool = false,
     id: u7 = @intFromEnum(AttrType.UNSPEC),
-    plen: u24 = 0, // length of payload, 0 if wasn't set
+    // for attribute - length of payload(data)
+    // for field - check implementation and
+    // usage of 'blob_set_raw_len'
+    plen: u24 = 0,
 
-    pub fn was_set(hdr: *AttrHdr) bool {
-        return hdr.plen > 0;
-    }
-
+    /// Returns the complete length of an attribute (including the header)
     pub fn raw_len(hdr: *AttrHdr) usize {
         return hdr.plen + @sizeOf(AttrHdr);
     }
-
+    /// Returns the padded length of an attribute (including the header)
     pub fn pad_len(hdr: *AttrHdr) usize {
         return (((hdr.raw_len() - 1) / ATTR_ALIGN) +% 1) * ATTR_ALIGN;
     }
@@ -66,7 +66,7 @@ pub const Attribute = packed struct {
     adata: void = undefined,
 
     pub fn data_ptr(attr: *Attribute) *void {
-        return &attr.ahdr.adata;
+        return &attr.adata;
     }
 
     pub fn field_ptr(attr: *Attribute) !*Field {
@@ -80,9 +80,6 @@ pub const Attribute = packed struct {
         if (attr.ahdr.field) {
             const fld = try attr.field_ptr();
             return fld.is_valid();
-        }
-        if (!attr.ahdr.was_set()) {
-            return error.WasNotSet;
         }
         if (!(attr.ahdr.id > ATTR_LAST) || (attr.ahdr.id < ATTR_UNSPEC)) {
             return error.WrongAttributeId;
@@ -112,6 +109,22 @@ pub const Attribute = packed struct {
 
         return true;
     }
+
+    pub fn get(attr: *Attribute, comptime T: type) T {
+        switch(T){
+            i8,u8,i16,u16,i32,u32,i64,u64,f64 => {
+                const resptr : * align(1) T = @ptrCast(attr.data_ptr());
+                return resptr.*;
+            },
+            else => @compileError("Wrong type for get"),
+        }
+    }
+
+    /// For internal usage - don't use it
+    pub fn OVERWRITE_LEN(attr: *Attribute, newlen: usize) void {
+        attr.ahdr.plen = newlen;
+    }
+
 };
 pub fn typeOf(comptime at: AttrType) type {
     const result = switch (at) {
@@ -182,4 +195,22 @@ test "attr test" {
     var v13 = b.get();
     v13 = 14;
     return;
+}
+
+test "Attribute get test" {
+    const extAttribute =  packed struct{
+        attr: Attribute = .{.ahdr = .{}},
+        d1: u8 = 1,
+        d2: u8 = 2,
+        d3: u8 = 3,
+        d4: u8 = 4,
+    };
+
+    var eatr :extAttribute = .{};
+
+    _ = eatr.attr.get(i8);
+    _ = eatr.attr.get(f64);
+
+    // _ = eatr.attr.get(void); comptime error
+    // _ = eatr.attr.get([]u8); comptime error
 }

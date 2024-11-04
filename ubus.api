@@ -1,10 +1,10 @@
 blob
     Classes
-        struct  	blob_attr
+        AttrHdr     struct  	blob_attr
 
-        struct  	blob_attr_info
+                    struct  	blob_attr_info
 
-        struct  	blob_buf
+        Buffer      struct  	blob_buf
 
     Macros
         #define 	BLOB_COOKIE   0x01234567
@@ -26,44 +26,46 @@ blob
           BLOB_ATTR_DOUBLE , BLOB_ATTR_LAST
         }
 
-    Functions
+    Attribute API
 
+        data_ptr()
         static void * 	blob_data (const struct blob_attr *attr)
 
+        .id
         static unsigned int 	blob_id (const struct blob_attr *attr)
 
+        .field
         static bool 	blob_is_extended (const struct blob_attr *attr)
 
+        .plen
         static size_t 	blob_len (const struct blob_attr *attr)
 
+        raw_len()
         static size_t 	blob_raw_len (const struct blob_attr *attr)
 
+        pad_len()
         static size_t 	blob_pad_len (const struct blob_attr *attr)
 
-        static uint8_t 	blob_get_u8 (const struct blob_attr *attr)
-
+        get(comptime type)
+        static uint8_t 	    blob_get_u8 (const struct blob_attr *attr)
         static uint16_t 	blob_get_u16 (const struct blob_attr *attr)
-
         static uint32_t 	blob_get_u32 (const struct blob_attr *attr)
-
         static uint64_t 	blob_get_u64 (const struct blob_attr *attr)
-
-        static int8_t 	blob_get_int8 (const struct blob_attr *attr)
-
-        static int16_t 	blob_get_int16 (const struct blob_attr *attr)
-
-        static int32_t 	blob_get_int32 (const struct blob_attr *attr)
-
-        static int64_t 	blob_get_int64 (const struct blob_attr *attr)
+        static int8_t 	    blob_get_int8 (const struct blob_attr *attr)
+        static int16_t 	    blob_get_int16 (const struct blob_attr *attr)
+        static int32_t 	    blob_get_int32 (const struct blob_attr *attr)
+        static int64_t 	    blob_get_int64 (const struct blob_attr *attr)
 
         static const char * 	blob_get_string (const struct blob_attr *attr)
 
+        OVERWRITE_LEN()
         void 	blob_set_raw_len (struct blob_attr *attr, unsigned int len)
 
         bool 	blob_attr_equal (const struct blob_attr *a1, const struct blob_attr *a2)
 
         struct blob_attr * 	blob_memdump (struct blob_attr *attr)
 
+        is_valid() call fld.is_valid() for field
         bool 	blob_check_type (const void *ptr, unsigned int len, int type) ???
 
 
