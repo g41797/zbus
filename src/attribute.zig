@@ -146,6 +146,10 @@ test "Attribute get/put test" {
         d2: u8 = 2,
         d3: u8 = 3,
         d4: u8 = 4,
+        d5: u8 = 5,
+        d6: u8 = 6,
+        d7: u8 = 7,
+        d8: u8 = 8,
     };
 
     var eatr :extAttribute = .{};
