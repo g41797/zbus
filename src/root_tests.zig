@@ -4,10 +4,13 @@
 const std = @import("std");
 const testing = std.testing;
 
-pub const buffer = @import("buffer.zig");
+pub const attribute = @import("attribute.zig");
+pub const field = @import("field.zig");
 pub const blob = @import("blob.zig");
-pub const buffer_tests = @import("buffer_tests.zig");
+pub const buffer = @import("buffer.zig");
+pub const message = @import("message.zig");
 
+pub const buffer_tests = @import("buffer_tests.zig");
 
 test {
     @import("std").testing.refAllDecls(@This());

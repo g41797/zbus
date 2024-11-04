@@ -27,7 +27,7 @@ test "buffer_tests init for write" {
 
     try testing.expectEqual(0, buf.available());
     try testing.expectError(error.CannotForwardAfterEndOfTheBuffer, buf.forward(min_len));
-    try buf.grow(min_len * 2);
+    try buf.realloc(min_len * 2);
     try testing.expectEqual(min_len, buf.available());
     try buf.forward(min_len - 1);
     try testing.expectEqual(1, buf.available());

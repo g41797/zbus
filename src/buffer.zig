@@ -4,9 +4,6 @@
 const std = @import("std");
 const Allocator = std.mem.Allocator;
 
-// const native_endian = @import("builtin").target.cpu.arch.endian();
-// const big_endian = @import("builtin").target.cpu.arch.bigendian();
-
 /// Modes of Buffer usage:
 /// - receive: receive information from rpcd via socket, format - big endian
 /// - send: send information to rpcd via socket, format - big endian
@@ -34,23 +31,19 @@ pub const Buffer = struct {
     getoffset: usize = undefined, // for send & read
     putoffset: usize = undefined, // for receive and write
 
-    // endian: std.builtin.Endian = undefined,
-    // wstrm: ?std.io.FixedBufferStream([]u8) = null,
-    // rstrm: ?std.io.FixedBufferStream([]const u8) = null,
-
     pub fn init(bfr: *Buffer, allocator: Allocator, minlen: usize, maxlen: usize) !void {
         // bfr.endian = native_endian;
         bfr.maxlen = maxlen;
         bfr.minlen = minlen;
         bfr.allocator = allocator;
-        try bfr.grow(null);
+        try bfr.realloc(null);
         return;
     }
 
-    /// Extend buffer: newlen or currlen*2 but no more then maxlen.
+    /// Allocate or reallocate buffer: newlen or currlen*2 but no more then maxlen.
     /// Content of former buffer copied to new one.
     /// Former buffer - freed.
-    pub fn grow(bfr: *Buffer, newlen: ?usize) !void {
+    pub fn realloc(bfr: *Buffer, newlen: ?usize) !void {
         var alloclen = bfr.minlen;
 
         for (0..1) |_| {
@@ -208,17 +201,11 @@ pub const Buffer = struct {
         }
 
         switch (bfr.mode) {
-            .receive => {
+            .receive, .write => {
                 bfr.putoffset += len;
             },
-            .send => {
+            .send, .read => {
                 bfr.getoffset += len;
-            },
-            .read => {
-                bfr.getoffset += len;
-            },
-            .write => {
-                bfr.putoffset += len;
             },
             else => {
                 return error.EmptyBuffer;
@@ -228,7 +215,7 @@ pub const Buffer = struct {
         return;
     }
 
-    pub fn ptr(bfr: *Buffer) !*u8 {
+    pub fn avail_ptr(bfr: *Buffer) !*u8 {
         if (bfr.buffer == null) {
             return error.EmptyBuffer;
         }
@@ -236,23 +223,13 @@ pub const Buffer = struct {
         const address = @intFromPtr(bfr.buffer.?.ptr);
 
         return switch (bfr.mode) {
-            .receive, .write => bfr.putoffset + address,
-            .send, .read => bfr.getoffset + address,
+            .receive, .write => @ptrFromInt(bfr.putoffset + address),
+            .send, .read => @ptrFromInt(bfr.getoffset + address),
         };
     }
 
-    pub fn slice(bfr: *Buffer) ![]u8 {
-        const bptr = try bfr.ptr();
+    pub fn avail_slice(bfr: *Buffer) ![]u8 {
+        const bptr = try bfr.avail_ptr();
         return bptr[0..bfr.available()];
     }
-
-    // pub fn toBE(bfr: *Buffer) !void {
-    //     _ = bfr;
-    //     return 0;
-    // }
-    //
-    // pub fn fromBE(bfr: *Buffer) !void {
-    //     _ = bfr;
-    //     return 0;
-    // }
 };
