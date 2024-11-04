@@ -2,6 +2,8 @@
 // SPDX-License-Identifier: MIT
 
 const std = @import("std");
+const testing = std.testing;
+
 pub const field = @import("field.zig");
 pub const Field = field.Field;
 
@@ -120,6 +122,16 @@ pub const Attribute = packed struct {
         }
     }
 
+    pub fn put(attr: *Attribute, val: anytype) void {
+        switch(@TypeOf(val)){
+            i8,u8,i16,u16,i32,u32,i64,u64,f64 => {
+                const resptr : * align(1) @TypeOf(val) = @ptrCast(attr.data_ptr());
+                resptr.* = val;
+            },
+            else => @compileError("Wrong type for put"),
+        }
+    }
+
     /// For internal usage - don't use it
     pub fn OVERWRITE_LEN(attr: *Attribute, newlen: usize) void {
         attr.ahdr.plen = newlen;
@@ -197,7 +209,7 @@ test "attr test" {
     return;
 }
 
-test "Attribute get test" {
+test "Attribute get/put test" {
     const extAttribute =  packed struct{
         attr: Attribute = .{.ahdr = .{}},
         d1: u8 = 1,
@@ -208,8 +220,14 @@ test "Attribute get test" {
 
     var eatr :extAttribute = .{};
 
-    _ = eatr.attr.get(i8);
-    _ = eatr.attr.get(f64);
+    const int1: i8 = 12;
+    const flt2: f64 = 13.14;
+
+    eatr.attr.put(int1);
+    try testing.expectEqual(int1, eatr.attr.get(i8));
+
+    eatr.attr.put(flt2);
+    try testing.expectEqual(flt2, eatr.attr.get(f64));
 
     // _ = eatr.attr.get(void); comptime error
     // _ = eatr.attr.get([]u8); comptime error
