@@ -65,7 +65,7 @@ blob
 
         bool 	blob_attr_equal (const struct blob_attr *a1, const struct blob_attr *a2)
 
-        struct blob_attr * 	blob_memdump (struct blob_attr *attr)
+        struct blob_attr * 	blob_memdup (struct blob_attr *attr)
 
         is_valid() call fld.is_valid() for field
         bool 	blob_check_type (const void *ptr, unsigned int len, int type) ???

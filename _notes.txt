@@ -182,3 +182,6 @@ tips for interacting with c
 
 Beginner's notes on Slices/Arrays/Strings
     https://zig.news/david_vanderson/beginner-s-notes-on-slices-arrays-strings-5b67
+
+Zig Metaprogramming
+    https://ikrima.dev/dev-notes/zig/zig-metaprogramming/#zig-metaprogramming
