@@ -160,7 +160,7 @@ test "Attribute get/put test" {
 
     const flt2: f64 = 13.14;
     eatr.attr.put(flt2);
-    // try testing.expectEqual(flt2, eatr.attr.get(f64));
+    try testing.expectEqual(flt2, eatr.attr.get(f64));
 
     // _ = eatr.attr.get(void); comptime error
     // _ = eatr.attr.get([]u8); comptime error
