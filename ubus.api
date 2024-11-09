@@ -28,6 +28,9 @@ blob
 
     Attribute API
 
+        attr: Attribute = .{.ahdr = .{}},
+        static void 	blob_init (struct blob_attr *attr, int id, unsigned int len)
+
         data_ptr()
         static void * 	blob_data (const struct blob_attr *attr)
 
@@ -70,20 +73,28 @@ blob
         is_valid() call fld.is_valid() for field
         bool 	blob_check_type (const void *ptr, unsigned int len, int type) ???
 
+        static int 	blob_parse_attr (struct blob_attr *attr, size_t attr_len, struct blob_attr **data, const struct blob_attr_info *info, int max)
+
 
     Buffer API
 
-        int 	blob_buf_init (struct blob_buf *buf, int id)
-
+        free
         void 	blob_buf_free (struct blob_buf *buf)
 
+        realloc
         bool 	blob_buf_grow (struct blob_buf *buf, int required)
 
+        static bool 	blob_buffer_grow (struct blob_buf *buf, int minlen)
+
+        ~write_append
         struct blob_attr * 	blob_put_raw (struct blob_buf *buf, const void *ptr, unsigned int len)
 
 
 
     Blob API
+        int 	blob_buf_init (struct blob_buf *buf, int id)
+
+        static struct blob_attr * 	blob_add (struct blob_buf *buf, struct blob_attr *pos, int id, int payload)
 
         struct blob_attr * 	blob_new (struct blob_buf *buf, int id, int payload)
 
@@ -91,7 +102,9 @@ blob
 
         void 	blob_nest_end (struct blob_buf *buf, void *cookie)
 
-        struct blob_attr * 	blob_put (struct blob_buf *buf, int id, const void *ptr, unsigned int len)
+        static struct blob_attr * 	offset_to_attr (struct blob_buf *buf, int offset)
+
+        static int 	attr_to_offset (struct blob_buf *buf, struct blob_attr *attr)
 
         static struct blob_attr * 	blob_next (const struct blob_attr *attr)
 
@@ -101,23 +114,27 @@ blob
 
         void 	blob_fill_pad (struct blob_attr *attr) ???
 
-        static struct blob_attr * 	blob_put_string (struct blob_buf *buf, int id, const char *str)
+        struct blob_attr * 	blob_put_raw (struct blob_buf *buf, const void *ptr, unsigned int len)
 
-        static struct blob_attr * 	blob_put_u8 (struct blob_buf *buf, int id, uint8_t val)
+        struct blob_attr * 	blob_put (struct blob_buf *buf, int id, const void *ptr, unsigned int len)
 
-        static struct blob_attr * 	blob_put_u16 (struct blob_buf *buf, int id, uint16_t val)
+            static struct blob_attr * 	blob_put_string (struct blob_buf *buf, int id, const char *str)
 
-        static struct blob_attr * 	blob_put_u32 (struct blob_buf *buf, int id, uint32_t val)
+            static struct blob_attr * 	blob_put_u8 (struct blob_buf *buf, int id, uint8_t val)
 
-        static struct blob_attr * 	blob_put_u64 (struct blob_buf *buf, int id, uint64_t val)
+            static struct blob_attr * 	blob_put_u16 (struct blob_buf *buf, int id, uint16_t val)
 
-        blob_put_int8
+            static struct blob_attr * 	blob_put_u32 (struct blob_buf *buf, int id, uint32_t val)
 
-        blob_put_int16
+            static struct blob_attr * 	blob_put_u64 (struct blob_buf *buf, int id, uint64_t val)
 
-        blob_put_int32
+            blob_put_int8
 
-        blob_put_int64
+            blob_put_int16
+
+            blob_put_int32
+
+            blob_put_int64
 
     Blob  Iterators
 

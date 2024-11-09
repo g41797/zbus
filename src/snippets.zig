@@ -98,3 +98,53 @@
 //     v13 = 14;
 //     return;
 // }
+
+// pub const struct_blob_attr = extern struct {
+//     id_len: u32 align(1) = @import("std").mem.zeroes(u32),
+//     pub fn data(self: anytype) @import("std").zig.c_translation.FlexibleArrayType(@TypeOf(self), u8) {
+//         const Intermediate = @import("std").zig.c_translation.FlexibleArrayType(@TypeOf(self), u8);
+//         const ReturnType = @import("std").zig.c_translation.FlexibleArrayType(@TypeOf(self), u8);
+//         return @as(ReturnType, @ptrCast(@alignCast(@as(Intermediate, @ptrCast(self)) + 4)));
+//     }
+// };
+
+// pub const PS = packed struct {
+//     field: bool = false,
+//     id: u7 = 0,
+//     plen: u24 = 0,
+// };
+//
+// pub const PSV = packed struct {
+//     ps: PS,
+//     val: void,
+// };
+//
+// pub const ESV =  extern struct {
+//     ps: PS,
+//     val: void,
+// };
+//
+// pub const PSI = packed struct {
+//     ps: PS,
+//     val: i8,
+// };
+//
+// pub const ESI =  extern struct {
+//     ps: PS align(1),
+//     val: i8 align(1),
+// };
+//
+//
+// pub fn main() !void {
+//     std.debug.print("@sizeOf(PS):{d} @bitSizeOf(PS):{d}\n", .{@sizeOf(PS), @bitSizeOf(PS)});
+//     std.debug.print("@sizeOf(PSV):{d} @bitSizeOf(PSV):{d}\n", .{@sizeOf(PSV), @bitSizeOf(PSV)});
+//     std.debug.print("@sizeOf(ESV):{d} @bitSizeOf(ESV):{d}\n", .{@sizeOf(ESV), @bitSizeOf(ESV)});
+//     std.debug.print("@sizeOf(PSI):{d} @bitSizeOf(PSI):{d}\n", .{@sizeOf(PSI), @bitSizeOf(PSI)});
+//     std.debug.print("@sizeOf(ESI):{d} @bitSizeOf(ESI):{d}\n", .{@sizeOf(ESI), @bitSizeOf(ESI)});
+// }
+
+// @sizeOf(PS):4 @bitSizeOf(PS):32
+// @sizeOf(PSV):4 @bitSizeOf(PSV):32
+// @sizeOf(ESV):4 @bitSizeOf(ESV):32
+// @sizeOf(PSI):8 @bitSizeOf(PSI):40
+// @sizeOf(ESI):5 @bitSizeOf(ESI):40

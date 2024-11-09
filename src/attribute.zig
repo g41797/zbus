@@ -122,6 +122,13 @@ pub const Attribute = packed struct {
         }
     }
 
+    // ----
+    // TODO - add get_string
+    // ----
+
+    // ----
+    // TODO - should be replaced with blob method
+    // ----
     pub fn put(attr: *Attribute, val: anytype) void {
         switch(@TypeOf(val)){
             i8,u8,i16,u16,i32,u32,i64,u64,f64 => {

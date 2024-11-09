@@ -1,3 +1,6 @@
+Packed struct too big / uninitialized
+    https://ziggit.dev/t/packed-struct-too-big-uninitialized/6752
+
 Zig Playground
     https://playground.zigtools.org/
 
